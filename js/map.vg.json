@@ -1,0 +1,113 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 500,
+    "title": "World Happiness Report",
+    "projection": {
+        "type": "equalEarth"
+    },
+    "layer": [
+        {
+            "data": {
+                "url": "js/world.topojson",
+                "format": {
+                    "type": "topojson",
+                    "feature": "world.geo"
+                }
+            },
+            "params": [
+                {
+                    "name": "score_na",
+                    "value": "N/A"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "white",
+                "strokeWidth": 0.2
+            },
+            "encoding": {
+                "tooltip": [
+                    {
+                        "field": "properties.admin",
+                        "type": "nominal",
+                        "title": "Country"
+                    },
+                    {
+                        "title": "Score",
+                        "format": "A"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "url": "js/world.topojson",
+                "format": {
+                    "type": "topojson",
+                    "feature": "world.geo"
+                }
+            },
+            "transform": [
+                {
+                    "lookup": "properties.admin",
+                    "from": {
+                        "data": {
+                            "url": "data/world-happiness-report-2021.csv"
+                        },
+                        "key": "Country name",
+                        "fields": [
+                            "Ladder score"
+                        ]
+                    }
+                },
+                {
+                    "calculate": "datum['Ladder score']",
+                    "as": "Score"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "stroke": "white",
+                "strokeWidth": 0.3
+            },
+            "encoding": {
+                "color": {
+                    "field": "Score",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "linear",
+                        "range": [
+                            "#ffffcc",
+                            "#c7e9b4",
+                            "#7fcdbb",
+                            "#41b6c4",
+                            "#2c7fb8",
+                            "#253494"
+                        ],
+                        "domain": [
+                            0,
+                            2,
+                            4,
+                            6,
+                            8,
+                            10
+                        ]
+                    }
+                },
+                "tooltip": [
+                    {
+                        "field": "properties.admin",
+                        "type": "nominal",
+                        "title": "Country"
+                    },
+                    {
+                        "field": "Score",
+                        "type": "quantitative"
+                    }
+                ]
+            }
+        }
+    ]
+}

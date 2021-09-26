@@ -1,0 +1,267 @@
+﻿World Happiness Country,TopoJSON Country,GDP Country
+Afghanistan,Afghanistan,Aruba
+Albania,Albania,Africa Eastern and Southern
+Algeria,Algeria,Afghanistan
+Argentina,Angola,Africa Western and Central
+Armenia,Argentina,Angola
+Australia,Armenia,Albania
+Austria,Australia,Andorra
+Azerbaijan,Austria,Arab World
+Bahrain,Azerbaijan,United Arab Emirates
+Bangladesh,Bangladesh,Argentina
+Belarus,Belarus,Armenia
+Belgium,Belgium,American Samoa
+Benin,Belize,Antigua and Barbuda
+Bolivia,Benin,Australia
+Bosnia and Herzegovina,Bhutan,Austria
+Botswana,Bolivia,Azerbaijan
+Brazil,Bosnia and Herzegovina,Burundi
+Bulgaria,Botswana,Belgium
+Burkina Faso,Brazil,Benin
+Burundi,Brunei,Burkina Faso
+Cambodia,Bulgaria,Bangladesh
+Cameroon,Burkina Faso,Bulgaria
+Canada,Burundi,Bahrain
+Chad,Cambodia,"Bahamas, The"
+Chile,Cameroon,Bosnia and Herzegovina
+China,Canada,Belarus
+Colombia,Central African Republic,Belize
+Comoros,Chad,Bermuda
+Republic of Congo,Chile,Bolivia
+Costa Rica,China,Brazil
+Croatia,Colombia,Barbados
+Cyprus,Costa Rica,Brunei Darussalam
+Czech Republic,Croatia,Bhutan
+Denmark,Cuba,Botswana
+Dominican Republic,Cyprus,Central African Republic
+Ecuador,Czech Republic,Canada
+Egypt,Democratic Republic of the Congo,Central Europe and the Baltics
+El Salvador,Denmark,Switzerland
+Estonia,Djibouti,Channel Islands
+Ethiopia,Dominican Republic,Chile
+Finland,East Timor,China
+France,Ecuador,Ivory Coast
+Gabon,Egypt,Cameroon
+Gambia,El Salvador,"Congo, Dem. Rep."
+Georgia,Equatorial Guinea,Republic of Congo
+Germany,Eritrea,Colombia
+Ghana,Estonia,Comoros
+Greece,Ethiopia,Cabo Verde
+Guatemala,Falkland Islands,Costa Rica
+Guinea,Fiji,Caribbean small states
+Haiti,Finland,Cuba
+Honduras,France,Curacao
+Hong Kong S.A.R. of China,Gabon,Cayman Islands
+Hungary,Gambia,Cyprus
+Iceland,Georgia,Czech Republic
+India,Germany,Germany
+Indonesia,Ghana,Djibouti
+Iran,Greece,Dominica
+Iraq,Greenland,Denmark
+Ireland,Guatemala,Dominican Republic
+Israel,Guinea,Algeria
+Italy,Guinea Bissau,East Asia & Pacific (excluding high income)
+Ivory Coast,Guyana,Early-demographic dividend
+Jamaica,Haiti,East Asia & Pacific
+Japan,Honduras,Europe & Central Asia (excluding high income)
+Jordan,Hungary,Europe & Central Asia
+Kazakhstan,Iceland,Ecuador
+Kenya,India,Egypt
+Kosovo,Indonesia,Euro area
+Kuwait,Iran,Eritrea
+Kyrgyzstan,Iraq,Spain
+Laos,Ireland,Estonia
+Latvia,Israel,Ethiopia
+Lebanon,Italy,European Union
+Lesotho,Ivory Coast,Fragile and conflict affected situations
+Liberia,Jamaica,Finland
+Libya,Japan,Fiji
+Lithuania,Jordan,France
+Luxembourg,Kazakhstan,Faroe Islands
+Madagascar,Kenya,"Micronesia, Fed. Sts."
+Malawi,Kosovo,Gabon
+Malaysia,Kuwait,United Kingdom
+Maldives,Kyrgyzstan,Georgia
+Mali,Laos,Ghana
+Malta,Latvia,Gibraltar
+Mauritania,Lebanon,Guinea
+Mauritius,Lesotho,Gambia
+Mexico,Liberia,Guinea-Bissau
+Moldova,Libya,Equatorial Guinea
+Mongolia,Lithuania,Greece
+Montenegro,Luxembourg,Grenada
+Morocco,Macedonia,Greenland
+Mozambique,Madagascar,Guatemala
+Myanmar,Malawi,Guam
+Namibia,Malaysia,Guyana
+Nepal,Mali,High income
+Netherlands,Mauritania,Hong Kong S.A.R. of China
+New Zealand,Mexico,Honduras
+Nicaragua,Moldova,Heavily indebted poor countries (HIPC)
+Niger,Mongolia,Croatia
+Nigeria,Montenegro,Haiti
+Northern Cyprus,Morocco,Hungary
+Macedonia,Mozambique,IBRD only
+Norway,Myanmar,IDA & IBRD total
+Pakistan,Namibia,IDA total
+Palestine,Nepal,IDA blend
+Panama,Netherlands,Indonesia
+Paraguay,New Caledonia,IDA only
+Peru,New Zealand,Isle of Man
+Philippines,Nicaragua,India
+Poland,Niger,Not classified
+Portugal,Nigeria,Ireland
+Romania,North Korea,Iran
+Russia,Northern Cyprus,Iraq
+Rwanda,Norway,Iceland
+Saudi Arabia,Oman,Israel
+Senegal,Pakistan,Italy
+Republic of Serbia,Palestine,Jamaica
+Sierra Leone,Panama,Jordan
+Singapore,Papua New Guinea,Japan
+Slovakia,Paraguay,Kazakhstan
+Slovenia,Peru,Kenya
+South Africa,Philippines,Kyrgyzstan
+South Korea,Poland,Cambodia
+Spain,Portugal,Kiribati
+Sri Lanka,Puerto Rico,St. Kitts and Nevis
+Swaziland,Qatar,South Korea
+Sweden,Republic of Congo,Kuwait
+Switzerland,Republic of Serbia,Latin America & Caribbean (excluding high income)
+Taiwan,Romania,Laos
+Tajikistan,Russia,Lebanon
+United Republic of Tanzania,Rwanda,Liberia
+Thailand,Saudi Arabia,Libya
+Togo,Senegal,St. Lucia
+Tunisia,Sierra Leone,Latin America & Caribbean
+Turkey,Slovakia,Least developed countries: UN classification
+Turkmenistan,Slovenia,Low income
+Uganda,Solomon Islands,Liechtenstein
+Ukraine,Somalia,Sri Lanka
+United Arab Emirates,Somaliland,Lower middle income
+United Kingdom,South Africa,Low & middle income
+United States of America,South Korea,Lesotho
+Uruguay,South Sudan,Late-demographic dividend
+Uzbekistan,Spain,Lithuania
+Venezuela,Sri Lanka,Luxembourg
+Vietnam,Sudan,Latvia
+Yemen,Suriname,"Macao SAR, China"
+Zambia,Swaziland,St. Martin (French part)
+Zimbabwe,Sweden,Morocco
+,Switzerland,Monaco
+,Syria,Moldova
+,Taiwan,Madagascar
+,Tajikistan,Maldives
+,Thailand,Middle East & North Africa
+,The Bahamas,Mexico
+,Togo,Marshall Islands
+,Trinidad and Tobago,Middle income
+,Tunisia,Macedonia
+,Turkey,Mali
+,Turkmenistan,Malta
+,Uganda,Myanmar
+,Ukraine,Middle East & North Africa (excluding high income)
+,United Arab Emirates,Montenegro
+,United Kingdom,Mongolia
+,United Republic of Tanzania,Northern Mariana Islands
+,United States of America,Mozambique
+,Uruguay,Mauritania
+,Uzbekistan,Mauritius
+,Vanuatu,Malawi
+,Venezuela,Malaysia
+,Vietnam,North America
+,Western Sahara,Namibia
+,Yemen,New Caledonia
+,Zambia,Niger
+,Zimbabwe,Nigeria
+,,Nicaragua
+,,Netherlands
+,,Norway
+,,Nepal
+,,Nauru
+,,New Zealand
+,,OECD members
+,,Oman
+,,Other small states
+,,Pakistan
+,,Panama
+,,Peru
+,,Philippines
+,,Palau
+,,Papua New Guinea
+,,Poland
+,,Pre-demographic dividend
+,,Puerto Rico
+,,"Korea, Dem. People's Rep."
+,,Portugal
+,,Paraguay
+,,West Bank and Gaza
+,,Pacific island small states
+,,Post-demographic dividend
+,,French Polynesia
+,,Qatar
+,,Romania
+,,Russia
+,,Rwanda
+,,South Asia
+,,Saudi Arabia
+,,Sudan
+,,Senegal
+,,Singapore
+,,Solomon Islands
+,,Sierra Leone
+,,El Salvador
+,,San Marino
+,,Somalia
+,,Republic of Serbia
+,,Sub-Saharan Africa (excluding high income)
+,,South Sudan
+,,Sub-Saharan Africa
+,,Small states
+,,Sao Tome and Principe
+,,Suriname
+,,Slovakia
+,,Slovenia
+,,Sweden
+,,Swaziland
+,,Sint Maarten (Dutch part)
+,,Seychelles
+,,Syrian Arab Republic
+,,Turks and Caicos Islands
+,,Chad
+,,East Asia & Pacific (IDA & IBRD countries)
+,,Europe & Central Asia (IDA & IBRD countries)
+,,Togo
+,,Thailand
+,,Tajikistan
+,,Turkmenistan
+,,Latin America & the Caribbean (IDA & IBRD countries)
+,,Timor-Leste
+,,Middle East & North Africa (IDA & IBRD countries)
+,,Tonga
+,,South Asia (IDA & IBRD)
+,,Sub-Saharan Africa (IDA & IBRD countries)
+,,Trinidad and Tobago
+,,Tunisia
+,,Turkey
+,,Tuvalu
+,,United Republic of Tanzania
+,,Uganda
+,,Ukraine
+,,Upper middle income
+,,Uruguay
+,,United States of America
+,,Uzbekistan
+,,St. Vincent and the Grenadines
+,,Venezuela
+,,British Virgin Islands
+,,Virgin Islands (U.S.)
+,,Vietnam
+,,Vanuatu
+,,World
+,,Samoa
+,,Kosovo
+,,Yemen
+,,South Africa
+,,Zambia
+,,Zimbabwe
