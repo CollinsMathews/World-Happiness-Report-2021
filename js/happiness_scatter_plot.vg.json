@@ -4,7 +4,7 @@
   "height": 600,
   "title": "Happiness per Wealth",
   "data": {
-    "url": "data/MortalityDataWHR2021C2.csv"
+    "url": "data/world-happiness-report-2021.csv"
   },
   "params": [
     {
@@ -25,7 +25,7 @@
         "options": [
           null,
           "Central and Eastern Europe",
-          "Commonwealth of Independent",
+          "Commonwealth of Independent States",
           "East Asia",
           "Latin America and Caribbean",
           "Middle East and North Africa",
@@ -38,7 +38,7 @@
         "labels": [
           "Show All",
           "Central and Eastern Europe",
-          "Commonwealth of Independent",
+          "Commonwealth of Independent States",
           "East Asia",
           "Latin America and Caribbean",
           "Middle East and North Africa",
@@ -64,6 +64,12 @@
           "Population 2020"
         ]
       }
+    },
+    {
+      "filter": "datum['Population 2020'] > Population_Above"
+    },
+    {
+      "filter": "Region_selection == null || datum['Regional indicator'] == Region_selection"
     }
   ],
   "encoding": {
@@ -90,16 +96,21 @@
         "tickCount": 6
       },
       "scale": {
-        "type": "linear",
-        "domain": [
-          0,
-          10
-        ]
+        "type": "linear"
       }
     }
   },
   "layer": [
     {
+      "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": [
+            "Regional indicator"
+          ],
+          "bind": "legend"
+        }
+      },
       "mark": "circle",
       "encoding": {
         "size": {
@@ -133,7 +144,7 @@
           "scale": {
             "domain": [
               "Central and Eastern Europe",
-              "Commonwealth of Independent",
+              "Commonwealth of Independent States",
               "East Asia",
               "Latin America and Caribbean",
               "Middle East and North Africa",
@@ -144,6 +155,53 @@
               "Western Europe"
             ]
           }
+        },
+        "opacity": {
+          "condition": {
+            "selection": "continent_highlight",
+            "value": 0.6
+          },
+          "value": 0.2
+        },
+        "tooltip": [
+          {
+            "field": "Country name",
+            "type": "nominal"
+          },
+          {
+            "field": "Ladder score",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "Logged GDP per capita",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "Population 2020",
+            "type": "quantitative",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 11.5,
+        "fontStyle": "italic",
+        "dy": -15
+      },
+      "encoding": {
+        "text": {"field": "Country name", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Country name'] == 'Denmark' || datum['Country name'] == 'Luxembourg'",
+            "value": 1
+          },
+          "value": 0
         },
         "tooltip": [
           {
