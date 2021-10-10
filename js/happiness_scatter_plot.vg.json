@@ -1,0 +1,172 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 600,
+  "title": "Happiness per Wealth",
+  "data": {
+    "url": "data/MortalityDataWHR2021C2.csv"
+  },
+  "params": [
+    {
+      "name": "Population_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 100000000,
+        "step": 1000000,
+        "name": "Minimum Population: "
+      }
+    },
+    {
+      "name": "Region_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Central and Eastern Europe",
+          "Commonwealth of Independent",
+          "East Asia",
+          "Latin America and Caribbean",
+          "Middle East and North Africa",
+          "North America and ANZ",
+          "South Asia",
+          "Southeast Asia",
+          "Sub-Saharan Africa",
+          "Western Europe"
+        ],
+        "labels": [
+          "Show All",
+          "Central and Eastern Europe",
+          "Commonwealth of Independent",
+          "East Asia",
+          "Latin America and Caribbean",
+          "Middle East and North Africa",
+          "North America and ANZ",
+          "South Asia",
+          "Southeast Asia",
+          "Sub-Saharan Africa",
+          "Western Europe"
+        ],
+        "name": "Region Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "lookup": "Country name",
+      "from": {
+        "data": {
+          "url": "data/MortalityDataWHR2021C2.csv"
+        },
+        "key": "Country name",
+        "fields": [
+          "Population 2020"
+        ]
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Logged GDP per capita",
+      "type": "quantitative",
+      "title": "GDP per Capita",
+      "axis": {
+        "tickCount": 7
+      },
+      "scale": {
+        "type": "linear",
+        "domain": [
+          6,
+          12
+        ]
+      }
+    },
+    "y": {
+      "field": "Ladder score",
+      "type": "quantitative",
+      "title": "Happiness Score",
+      "axis": {
+        "tickCount": 6
+      },
+      "scale": {
+        "type": "linear",
+        "domain": [
+          0,
+          10
+        ]
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "Population 2020",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [
+              1000000,
+              10000000,
+              50000000,
+              100000000,
+              500000000
+            ],
+            "range": [
+              10,
+              50,
+              150,
+              200,
+              300,
+              400
+            ]
+          },
+          "legend": {
+            "format": ".1s"
+          }
+        },
+        "color": {
+          "field": "Regional indicator",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Central and Eastern Europe",
+              "Commonwealth of Independent",
+              "East Asia",
+              "Latin America and Caribbean",
+              "Middle East and North Africa",
+              "North America and ANZ",
+              "South Asia",
+              "Southeast Asia",
+              "Sub-Saharan Africa",
+              "Western Europe"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Country name",
+            "type": "nominal"
+          },
+          {
+            "field": "Ladder score",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "Logged GDP per capita",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "Population 2020",
+            "type": "quantitative",
+            "format": ","
+          }
+        ]
+      }
+    }
+  ]
+}
