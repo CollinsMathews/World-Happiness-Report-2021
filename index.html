@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Assignment 2 - Collins Mathews</title>
 
     <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
@@ -12,11 +14,53 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
 </head>
+
 <body>
-    <div id="vega_map"></div>
-    <div id="vega_scatter_plot"></div>
-    
+    <div id="main_container">
+        <div id="first_row_container" class="row_container">
+            <div id="title">World Happiness Report :)</div>
+            <div id="subtitle_container">
+                <div id="author_text_container" class="subtitle_div">
+                    <div id="author_text">Visualisation by:<br><br><b>Collins Mathews</b><br>Monash
+                        University<br><br>FIT3173 - Data Visualisation</div>
+                </div>
+                <div id="subtext" class="subtitle_div">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor
+                    incididunt ut
+                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                    nisi
+                    ut
+                    aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    cillum
+                    dolore eu
+                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                    deserunt
+                    mollit
+                    anim id est laborum.
+                </div>
+                <div id="data_text_container" class="subtitle_div">
+                    <div id="data_text">Data from:<br><br><b>World Happiness Report</b><br>Sustainable
+                        Development Solutions
+                        Network<br><br><a
+                            href="https://worldhappiness.report/"><i>https://worldhappiness.report/</i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="second_row_container" class="row_container">
+            <div id="vega_map"></div>
+        </div>
+        <div id="third_row_container" class="row_container">
+            <div id="vega_scatter_plot" class="second_row_div"></div>
+            <div id="vega_bar_chart" class="second_row_div"></div>
+        </div>
+        <div id="fourth_row_container" class="row_container">
+            <div id="parallel_coordinate_plot"></div>
+        </div>
+    </div>
+
     <!-- Import Scripts -->
     <script src="js/script.js"></script>
 </body>
+
 </html>

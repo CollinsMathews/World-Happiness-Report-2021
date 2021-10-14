@@ -1,0 +1,44 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 600,
+  "title": {
+    "text": "Factor Percentiles",
+    "fontSize": 22,
+    "dy": -30
+  },
+  "background": "#F7EDE2",
+  "data": {
+    "url": "data/country_percentile_data.csv"
+  },
+  "encoding": {
+    "x": {
+      "field": "Factor",
+      "type": "nominal",
+      "title": "Factor",
+      "axis": {
+        "labelAngle": 0,
+        "labelPadding": 10,
+        "labelFontSize": 11.5,
+        "title": null
+      }
+    },
+    "y": {
+      "field": "Australia",
+      "type": "quantitative",
+      "title": "Percentile",
+      "scale": {
+        "type": "threshold"
+      },
+      "axis": {
+        "labelPadding": 10,
+        "labelFontSize": 11.5,
+        "title": null
+      }
+    }
+  },
+  "mark": {
+    "type": "bar",
+    "tooltip": true
+  }
+}

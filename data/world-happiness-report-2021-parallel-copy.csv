@@ -1,0 +1,1044 @@
+﻿Country name,Regional indicator,Ladder score,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,index,key,value,min,max,norm_val,mid
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,1,"""Ladder score""",2.523,2.523,7.842,0,5.1825
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,1,"""Logged GDP per capita""",7.695,7.364,10.933,0.092743065,9.1485
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,1,"""Social support""",0.463,0.54,0.983,-0.173814898,0.7615
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,1,"""Healthy life expectancy""",52.493,48.7,75.1,0.143674242,61.9
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,1,"""Freedom to make life choices""",0.382,0.561,0.96,-0.448621554,0.7605
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,1,"""Generosity""",-0.102,-0.236,0.509,0.179865772,0.1365
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,1,"""Perceptions of corruption""",0.924,0.242,0.918,1.00887574,0.58
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,2,"""Ladder score""",5.117,2.523,7.842,0.487685655,5.1825
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,2,"""Logged GDP per capita""",9.52,7.364,10.933,0.604090782,9.1485
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,2,"""Social support""",0.697,0.54,0.983,0.354401806,0.7615
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,2,"""Healthy life expectancy""",68.999,48.7,75.1,0.768901515,61.9
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,2,"""Freedom to make life choices""",0.785,0.561,0.96,0.561403509,0.7605
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,2,"""Generosity""",-0.03,-0.236,0.509,0.276510067,0.1365
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,2,"""Perceptions of corruption""",0.901,0.242,0.918,0.974852071,0.58
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,3,"""Ladder score""",4.887,2.523,7.842,0.444444444,5.1825
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,3,"""Logged GDP per capita""",9.342,7.364,10.933,0.554216867,9.1485
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,3,"""Social support""",0.802,0.54,0.983,0.591422122,0.7615
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,3,"""Healthy life expectancy""",66.005,48.7,75.1,0.655492424,61.9
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,3,"""Freedom to make life choices""",0.48,0.561,0.96,-0.203007519,0.7605
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,3,"""Generosity""",-0.067,-0.236,0.509,0.226845638,0.1365
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,3,"""Perceptions of corruption""",0.752,0.242,0.918,0.75443787,0.58
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,4,"""Ladder score""",5.929,2.523,7.842,0.64034593,5.1825
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,4,"""Logged GDP per capita""",9.962,7.364,10.933,0.727934996,9.1485
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,4,"""Social support""",0.898,0.54,0.983,0.808126411,0.7615
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,4,"""Healthy life expectancy""",69,48.7,75.1,0.768939394,61.9
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,4,"""Freedom to make life choices""",0.828,0.561,0.96,0.669172932,0.7605
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,4,"""Generosity""",-0.182,-0.236,0.509,0.072483221,0.1365
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,4,"""Perceptions of corruption""",0.834,0.242,0.918,0.875739645,0.58
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,5,"""Ladder score""",5.283,2.523,7.842,0.518894529,5.1825
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,5,"""Logged GDP per capita""",9.487,7.364,10.933,0.594844494,9.1485
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,5,"""Social support""",0.799,0.54,0.983,0.584650113,0.7615
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,5,"""Healthy life expectancy""",67.055,48.7,75.1,0.695265152,61.9
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,5,"""Freedom to make life choices""",0.825,0.561,0.96,0.661654135,0.7605
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,5,"""Generosity""",-0.168,-0.236,0.509,0.091275168,0.1365
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,5,"""Perceptions of corruption""",0.629,0.242,0.918,0.572485207,0.58
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,6,"""Ladder score""",7.183,2.523,7.842,0.876104531,5.1825
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,6,"""Logged GDP per capita""",10.796,7.364,10.933,0.961613897,9.1485
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,6,"""Social support""",0.94,0.54,0.983,0.902934537,0.7615
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,6,"""Healthy life expectancy""",73.9,48.7,75.1,0.954545455,61.9
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,6,"""Freedom to make life choices""",0.914,0.561,0.96,0.884711779,0.7605
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,6,"""Generosity""",0.159,-0.236,0.509,0.530201342,0.1365
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,6,"""Perceptions of corruption""",0.442,0.242,0.918,0.295857988,0.58
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,7,"""Ladder score""",7.268,2.523,7.842,0.892084978,5.1825
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,7,"""Logged GDP per capita""",10.906,7.364,10.933,0.992434856,9.1485
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,7,"""Social support""",0.934,0.54,0.983,0.889390519,0.7615
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,7,"""Healthy life expectancy""",73.3,48.7,75.1,0.931818182,61.9
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,7,"""Freedom to make life choices""",0.908,0.561,0.96,0.869674185,0.7605
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,7,"""Generosity""",0.042,-0.236,0.509,0.373154362,0.1365
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,7,"""Perceptions of corruption""",0.481,0.242,0.918,0.353550296,0.58
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,8,"""Ladder score""",5.171,2.523,7.842,0.497837939,5.1825
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,8,"""Logged GDP per capita""",9.569,7.364,10.933,0.617820118,9.1485
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,8,"""Social support""",0.836,0.54,0.983,0.668171558,0.7615
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,8,"""Healthy life expectancy""",65.656,48.7,75.1,0.642272727,61.9
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,8,"""Freedom to make life choices""",0.814,0.561,0.96,0.634085213,0.7605
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,8,"""Generosity""",-0.223,-0.236,0.509,0.017449664,0.1365
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,8,"""Perceptions of corruption""",0.506,0.242,0.918,0.390532544,0.58
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,9,"""Ladder score""",6.647,2.523,7.842,0.775333709,5.1825
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,9,"""Logged GDP per capita""",10.669,7.364,10.933,0.9260297,9.1485
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,9,"""Social support""",0.862,0.54,0.983,0.726862302,0.7615
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,9,"""Healthy life expectancy""",69.495,48.7,75.1,0.787689394,61.9
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,9,"""Freedom to make life choices""",0.925,0.561,0.96,0.912280702,0.7605
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,9,"""Generosity""",0.089,-0.236,0.509,0.436241611,0.1365
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,9,"""Perceptions of corruption""",0.722,0.242,0.918,0.710059172,0.58
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,10,"""Ladder score""",5.025,2.523,7.842,0.470389171,5.1825
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,10,"""Logged GDP per capita""",8.454,7.364,10.933,0.305407677,9.1485
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,10,"""Social support""",0.693,0.54,0.983,0.34537246,0.7615
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,10,"""Healthy life expectancy""",64.8,48.7,75.1,0.609848485,61.9
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,10,"""Freedom to make life choices""",0.877,0.561,0.96,0.79197995,0.7605
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,10,"""Generosity""",-0.041,-0.236,0.509,0.261744966,0.1365
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,10,"""Perceptions of corruption""",0.682,0.242,0.918,0.650887574,0.58
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,11,"""Ladder score""",5.534,2.523,7.842,0.56608385,5.1825
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,11,"""Logged GDP per capita""",9.853,7.364,10.933,0.697394228,9.1485
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,11,"""Social support""",0.91,0.54,0.983,0.835214447,0.7615
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,11,"""Healthy life expectancy""",66.253,48.7,75.1,0.664886364,61.9
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,11,"""Freedom to make life choices""",0.65,0.561,0.96,0.223057644,0.7605
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,11,"""Generosity""",-0.18,-0.236,0.509,0.075167785,0.1365
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,11,"""Perceptions of corruption""",0.627,0.242,0.918,0.569526627,0.58
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,12,"""Ladder score""",6.834,2.523,7.842,0.810490694,5.1825
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,12,"""Logged GDP per capita""",10.823,7.364,10.933,0.969179042,9.1485
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,12,"""Social support""",0.906,0.54,0.983,0.826185102,0.7615
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,12,"""Healthy life expectancy""",72.199,48.7,75.1,0.890113636,61.9
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,12,"""Freedom to make life choices""",0.783,0.561,0.96,0.556390977,0.7605
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,12,"""Generosity""",-0.153,-0.236,0.509,0.111409396,0.1365
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,12,"""Perceptions of corruption""",0.646,0.242,0.918,0.597633136,0.58
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,13,"""Ladder score""",5.045,2.523,7.842,0.474149276,5.1825
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,13,"""Logged GDP per capita""",8.087,7.364,10.933,0.202577753,9.1485
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,13,"""Social support""",0.489,0.54,0.983,-0.115124153,0.7615
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,13,"""Healthy life expectancy""",54.713,48.7,75.1,0.227765152,61.9
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,13,"""Freedom to make life choices""",0.757,0.561,0.96,0.49122807,0.7605
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,13,"""Generosity""",-0.034,-0.236,0.509,0.27114094,0.1365
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,13,"""Perceptions of corruption""",0.661,0.242,0.918,0.619822485,0.58
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,14,"""Ladder score""",5.716,2.523,7.842,0.600300808,5.1825
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,14,"""Logged GDP per capita""",9.046,7.364,10.933,0.471280471,9.1485
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,14,"""Social support""",0.81,0.54,0.983,0.609480813,0.7615
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,14,"""Healthy life expectancy""",63.901,48.7,75.1,0.575795455,61.9
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,14,"""Freedom to make life choices""",0.875,0.561,0.96,0.786967419,0.7605
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,14,"""Generosity""",-0.077,-0.236,0.509,0.213422819,0.1365
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,14,"""Perceptions of corruption""",0.839,0.242,0.918,0.883136095,0.58
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,15,"""Ladder score""",5.813,2.523,7.842,0.618537319,5.1825
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,15,"""Logged GDP per capita""",9.59,7.364,10.933,0.623704119,9.1485
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,15,"""Social support""",0.87,0.54,0.983,0.744920993,0.7615
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,15,"""Healthy life expectancy""",68.098,48.7,75.1,0.734772727,61.9
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,15,"""Freedom to make life choices""",0.706,0.561,0.96,0.363408521,0.7605
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,15,"""Generosity""",0.113,-0.236,0.509,0.468456376,0.1365
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,15,"""Perceptions of corruption""",0.931,0.242,0.918,1.019230769,0.58
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,16,"""Ladder score""",3.467,2.523,7.842,0.177476969,5.1825
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,16,"""Logged GDP per capita""",9.782,7.364,10.933,0.6775007,9.1485
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,16,"""Social support""",0.784,0.54,0.983,0.550790068,0.7615
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,16,"""Healthy life expectancy""",59.269,48.7,75.1,0.400340909,61.9
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,16,"""Freedom to make life choices""",0.824,0.561,0.96,0.65914787,0.7605
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,16,"""Generosity""",-0.246,-0.236,0.509,-0.013422819,0.1365
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,16,"""Perceptions of corruption""",0.801,0.242,0.918,0.826923077,0.58
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,17,"""Ladder score""",6.33,2.523,7.842,0.715736041,5.1825
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,17,"""Logged GDP per capita""",9.577,7.364,10.933,0.620061642,9.1485
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,17,"""Social support""",0.882,0.54,0.983,0.772009029,0.7615
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,17,"""Healthy life expectancy""",66.601,48.7,75.1,0.678068182,61.9
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,17,"""Freedom to make life choices""",0.804,0.561,0.96,0.609022556,0.7605
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,17,"""Generosity""",-0.071,-0.236,0.509,0.22147651,0.1365
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,17,"""Perceptions of corruption""",0.756,0.242,0.918,0.76035503,0.58
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,18,"""Ladder score""",5.266,2.523,7.842,0.51569844,5.1825
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,18,"""Logged GDP per capita""",10.016,7.364,10.933,0.743065284,9.1485
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,18,"""Social support""",0.931,0.54,0.983,0.88261851,0.7615
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,18,"""Healthy life expectancy""",67,48.7,75.1,0.693181818,61.9
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,18,"""Freedom to make life choices""",0.788,0.561,0.96,0.568922306,0.7605
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,18,"""Generosity""",-0.096,-0.236,0.509,0.187919463,0.1365
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,18,"""Perceptions of corruption""",0.932,0.242,0.918,1.020710059,0.58
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,19,"""Ladder score""",4.834,2.523,7.842,0.434480165,5.1825
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,19,"""Logged GDP per capita""",7.678,7.364,10.933,0.087979826,9.1485
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,19,"""Social support""",0.672,0.54,0.983,0.297968397,0.7615
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,19,"""Healthy life expectancy""",54.151,48.7,75.1,0.206477273,61.9
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,19,"""Freedom to make life choices""",0.695,0.561,0.96,0.335839599,0.7605
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,19,"""Generosity""",-0.009,-0.236,0.509,0.304697987,0.1365
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,19,"""Perceptions of corruption""",0.748,0.242,0.918,0.74852071,0.58
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,20,"""Ladder score""",3.775,2.523,7.842,0.235382591,5.1825
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,20,"""Logged GDP per capita""",6.635,7.364,10.933,-0.204258896,9.1485
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,20,"""Social support""",0.49,0.54,0.983,-0.112866817,0.7615
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,20,"""Healthy life expectancy""",53.4,48.7,75.1,0.178030303,61.9
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,20,"""Freedom to make life choices""",0.626,0.561,0.96,0.162907268,0.7605
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,20,"""Generosity""",-0.024,-0.236,0.509,0.284563758,0.1365
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,20,"""Perceptions of corruption""",0.607,0.242,0.918,0.539940828,0.58
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,21,"""Ladder score""",4.83,2.523,7.842,0.433728144,5.1825
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,21,"""Logged GDP per capita""",8.36,7.364,10.933,0.279069767,9.1485
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,21,"""Social support""",0.765,0.54,0.983,0.507900677,0.7615
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,21,"""Healthy life expectancy""",62,48.7,75.1,0.503787879,61.9
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,21,"""Freedom to make life choices""",0.959,0.561,0.96,0.997493734,0.7605
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,21,"""Generosity""",0.034,-0.236,0.509,0.362416107,0.1365
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,21,"""Perceptions of corruption""",0.843,0.242,0.918,0.889053254,0.58
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,22,"""Ladder score""",5.142,2.523,7.842,0.492385787,5.1825
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,22,"""Logged GDP per capita""",8.189,7.364,10.933,0.231157187,9.1485
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,22,"""Social support""",0.71,0.54,0.983,0.383747178,0.7615
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,22,"""Healthy life expectancy""",53.515,48.7,75.1,0.182386364,61.9
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,22,"""Freedom to make life choices""",0.731,0.561,0.96,0.426065163,0.7605
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,22,"""Generosity""",0.026,-0.236,0.509,0.351677852,0.1365
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,22,"""Perceptions of corruption""",0.848,0.242,0.918,0.896449704,0.58
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,23,"""Ladder score""",7.103,2.523,7.842,0.86106411,5.1825
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,23,"""Logged GDP per capita""",10.776,7.364,10.933,0.956010087,9.1485
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,23,"""Social support""",0.926,0.54,0.983,0.871331828,0.7615
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,23,"""Healthy life expectancy""",73.8,48.7,75.1,0.950757576,61.9
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,23,"""Freedom to make life choices""",0.915,0.561,0.96,0.887218045,0.7605
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,23,"""Generosity""",0.089,-0.236,0.509,0.436241611,0.1365
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,23,"""Perceptions of corruption""",0.415,0.242,0.918,0.25591716,0.58
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,24,"""Ladder score""",4.355,2.523,7.842,0.344425644,5.1825
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,24,"""Logged GDP per capita""",7.364,7.364,10.933,0,9.1485
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,24,"""Social support""",0.619,0.54,0.983,0.178329571,0.7615
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,24,"""Healthy life expectancy""",48.478,48.7,75.1,-0.008409091,61.9
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,24,"""Freedom to make life choices""",0.579,0.561,0.96,0.045112782,0.7605
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,24,"""Generosity""",0.041,-0.236,0.509,0.371812081,0.1365
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,24,"""Perceptions of corruption""",0.807,0.242,0.918,0.835798817,0.58
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,25,"""Ladder score""",6.172,2.523,7.842,0.686031209,5.1825
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,25,"""Logged GDP per capita""",10.071,7.364,10.933,0.758475764,9.1485
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,25,"""Social support""",0.882,0.54,0.983,0.772009029,0.7615
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,25,"""Healthy life expectancy""",70,48.7,75.1,0.806818182,61.9
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,25,"""Freedom to make life choices""",0.742,0.561,0.96,0.453634085,0.7605
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,25,"""Generosity""",-0.044,-0.236,0.509,0.257718121,0.1365
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,25,"""Perceptions of corruption""",0.83,0.242,0.918,0.869822485,0.58
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,26,"""Ladder score""",5.339,2.523,7.842,0.529422824,5.1825
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,26,"""Logged GDP per capita""",9.673,7.364,10.933,0.646959933,9.1485
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,26,"""Social support""",0.811,0.54,0.983,0.611738149,0.7615
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,26,"""Healthy life expectancy""",69.593,48.7,75.1,0.791401515,61.9
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,26,"""Freedom to make life choices""",0.904,0.561,0.96,0.859649123,0.7605
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,26,"""Generosity""",-0.146,-0.236,0.509,0.120805369,0.1365
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,26,"""Perceptions of corruption""",0.755,0.242,0.918,0.75887574,0.58
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,27,"""Ladder score""",6.012,2.523,7.842,0.655950367,5.1825
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,27,"""Logged GDP per capita""",9.557,7.364,10.933,0.614457831,9.1485
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,27,"""Social support""",0.847,0.54,0.983,0.693002257,0.7615
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,27,"""Healthy life expectancy""",68.001,48.7,75.1,0.731098485,61.9
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,27,"""Freedom to make life choices""",0.837,0.561,0.96,0.691729323,0.7605
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,27,"""Generosity""",-0.135,-0.236,0.509,0.13557047,0.1365
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,27,"""Perceptions of corruption""",0.841,0.242,0.918,0.886094675,0.58
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,28,"""Ladder score""",4.289,2.523,7.842,0.332017296,5.1825
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,28,"""Logged GDP per capita""",8.031,7.364,10.933,0.186887083,9.1485
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,28,"""Social support""",0.626,0.54,0.983,0.194130926,0.7615
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,28,"""Healthy life expectancy""",57.349,48.7,75.1,0.327613636,61.9
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,28,"""Freedom to make life choices""",0.548,0.561,0.96,-0.032581454,0.7605
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,28,"""Generosity""",0.082,-0.236,0.509,0.426845638,0.1365
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,28,"""Perceptions of corruption""",0.781,0.242,0.918,0.797337278,0.58
+Republic of Congo,Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,29,"""Ladder score""",5.342,2.523,7.842,0.52998684,5.1825
+Republic of Congo,Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,29,"""Logged GDP per capita""",8.117,7.364,10.933,0.210983469,9.1485
+Republic of Congo,Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,29,"""Social support""",0.636,0.54,0.983,0.216704289,0.7615
+Republic of Congo,Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,29,"""Healthy life expectancy""",58.221,48.7,75.1,0.360643939,61.9
+Republic of Congo,Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,29,"""Freedom to make life choices""",0.695,0.561,0.96,0.335839599,0.7605
+Republic of Congo,Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,29,"""Generosity""",-0.068,-0.236,0.509,0.225503356,0.1365
+Republic of Congo,Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,29,"""Perceptions of corruption""",0.745,0.242,0.918,0.74408284,0.58
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,30,"""Ladder score""",7.069,2.523,7.842,0.854671931,5.1825
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,30,"""Logged GDP per capita""",9.88,7.364,10.933,0.704959372,9.1485
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,30,"""Social support""",0.891,0.54,0.983,0.792325056,0.7615
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,30,"""Healthy life expectancy""",71.4,48.7,75.1,0.859848485,61.9
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,30,"""Freedom to make life choices""",0.934,0.561,0.96,0.934837093,0.7605
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,30,"""Generosity""",-0.126,-0.236,0.509,0.147651007,0.1365
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,30,"""Perceptions of corruption""",0.809,0.242,0.918,0.838757396,0.58
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,31,"""Ladder score""",5.882,2.523,7.842,0.631509682,5.1825
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,31,"""Logged GDP per capita""",10.217,7.364,10.933,0.799383581,9.1485
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,31,"""Social support""",0.924,0.54,0.983,0.866817156,0.7615
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,31,"""Healthy life expectancy""",70.799,48.7,75.1,0.837083333,61.9
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,31,"""Freedom to make life choices""",0.754,0.561,0.96,0.483709273,0.7605
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,31,"""Generosity""",-0.118,-0.236,0.509,0.158389262,0.1365
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,31,"""Perceptions of corruption""",0.939,0.242,0.918,1.031065089,0.58
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,32,"""Ladder score""",6.223,2.523,7.842,0.695619477,5.1825
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,32,"""Logged GDP per capita""",10.576,7.364,10.933,0.899971981,9.1485
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,32,"""Social support""",0.802,0.54,0.983,0.591422122,0.7615
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,32,"""Healthy life expectancy""",73.898,48.7,75.1,0.954469697,61.9
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,32,"""Freedom to make life choices""",0.763,0.561,0.96,0.506265664,0.7605
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,32,"""Generosity""",-0.015,-0.236,0.509,0.296644295,0.1365
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,32,"""Perceptions of corruption""",0.844,0.242,0.918,0.890532544,0.58
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,33,"""Ladder score""",6.965,2.523,7.842,0.835119383,5.1825
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,33,"""Logged GDP per capita""",10.556,7.364,10.933,0.89436817,9.1485
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,33,"""Social support""",0.947,0.54,0.983,0.918735892,0.7615
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,33,"""Healthy life expectancy""",70.807,48.7,75.1,0.837386364,61.9
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,33,"""Freedom to make life choices""",0.858,0.561,0.96,0.744360902,0.7605
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,33,"""Generosity""",-0.208,-0.236,0.509,0.037583893,0.1365
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,33,"""Perceptions of corruption""",0.868,0.242,0.918,0.926035503,0.58
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,34,"""Ladder score""",7.62,2.523,7.842,0.958262831,5.1825
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,34,"""Logged GDP per capita""",10.933,7.364,10.933,1,9.1485
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,34,"""Social support""",0.954,0.54,0.983,0.934537246,0.7615
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,34,"""Healthy life expectancy""",72.7,48.7,75.1,0.909090909,61.9
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,34,"""Freedom to make life choices""",0.946,0.561,0.96,0.964912281,0.7605
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,34,"""Generosity""",0.03,-0.236,0.509,0.35704698,0.1365
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,34,"""Perceptions of corruption""",0.179,0.242,0.918,-0.093195266,0.58
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,35,"""Ladder score""",5.545,2.523,7.842,0.568151908,5.1825
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,35,"""Logged GDP per capita""",9.802,7.364,10.933,0.683104511,9.1485
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,35,"""Social support""",0.853,0.54,0.983,0.706546275,0.7615
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,35,"""Healthy life expectancy""",66.102,48.7,75.1,0.659166667,61.9
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,35,"""Freedom to make life choices""",0.86,0.561,0.96,0.749373434,0.7605
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,35,"""Generosity""",-0.133,-0.236,0.509,0.138255034,0.1365
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,35,"""Perceptions of corruption""",0.714,0.242,0.918,0.698224852,0.58
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,36,"""Ladder score""",5.764,2.523,7.842,0.609325061,5.1825
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,36,"""Logged GDP per capita""",9.313,7.364,10.933,0.546091342,9.1485
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,36,"""Social support""",0.821,0.54,0.983,0.634311512,0.7615
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,36,"""Healthy life expectancy""",68.8,48.7,75.1,0.761363636,61.9
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,36,"""Freedom to make life choices""",0.842,0.561,0.96,0.704260652,0.7605
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,36,"""Generosity""",-0.124,-0.236,0.509,0.15033557,0.1365
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,36,"""Perceptions of corruption""",0.843,0.242,0.918,0.889053254,0.58
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,37,"""Ladder score""",4.283,2.523,7.842,0.330889265,5.1825
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,37,"""Logged GDP per capita""",9.367,7.364,10.933,0.561221631,9.1485
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,37,"""Social support""",0.75,0.54,0.983,0.474040632,0.7615
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,37,"""Healthy life expectancy""",61.998,48.7,75.1,0.503712121,61.9
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,37,"""Freedom to make life choices""",0.749,0.561,0.96,0.471177945,0.7605
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,37,"""Generosity""",-0.182,-0.236,0.509,0.072483221,0.1365
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,37,"""Perceptions of corruption""",0.795,0.242,0.918,0.818047337,0.58
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,38,"""Ladder score""",6.061,2.523,7.842,0.665162625,5.1825
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,38,"""Logged GDP per capita""",9.054,7.364,10.933,0.473521995,9.1485
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,38,"""Social support""",0.762,0.54,0.983,0.501128668,0.7615
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,38,"""Healthy life expectancy""",66.402,48.7,75.1,0.670530303,61.9
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,38,"""Freedom to make life choices""",0.888,0.561,0.96,0.819548872,0.7605
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,38,"""Generosity""",-0.11,-0.236,0.509,0.169127517,0.1365
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,38,"""Perceptions of corruption""",0.688,0.242,0.918,0.659763314,0.58
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,39,"""Ladder score""",6.189,2.523,7.842,0.689227298,5.1825
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,39,"""Logged GDP per capita""",10.481,7.364,10.933,0.873353881,9.1485
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,39,"""Social support""",0.941,0.54,0.983,0.905191874,0.7615
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,39,"""Healthy life expectancy""",68.8,48.7,75.1,0.761363636,61.9
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,39,"""Freedom to make life choices""",0.909,0.561,0.96,0.872180451,0.7605
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,39,"""Generosity""",-0.106,-0.236,0.509,0.174496644,0.1365
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,39,"""Perceptions of corruption""",0.527,0.242,0.918,0.421597633,0.58
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,40,"""Ladder score""",4.275,2.523,7.842,0.329385223,5.1825
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,40,"""Logged GDP per capita""",7.694,7.364,10.933,0.092462875,9.1485
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,40,"""Social support""",0.764,0.54,0.983,0.505643341,0.7615
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,40,"""Healthy life expectancy""",59,48.7,75.1,0.390151515,61.9
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,40,"""Freedom to make life choices""",0.752,0.561,0.96,0.478696742,0.7605
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,40,"""Generosity""",0.082,-0.236,0.509,0.426845638,0.1365
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,40,"""Perceptions of corruption""",0.761,0.242,0.918,0.767751479,0.58
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,41,"""Ladder score""",7.842,2.523,7.842,1,5.1825
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,41,"""Logged GDP per capita""",10.775,7.364,10.933,0.955729896,9.1485
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,41,"""Social support""",0.954,0.54,0.983,0.934537246,0.7615
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,41,"""Healthy life expectancy""",72,48.7,75.1,0.882575758,61.9
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,41,"""Freedom to make life choices""",0.949,0.561,0.96,0.972431078,0.7605
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,41,"""Generosity""",-0.098,-0.236,0.509,0.185234899,0.1365
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,41,"""Perceptions of corruption""",0.186,0.242,0.918,-0.082840237,0.58
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,42,"""Ladder score""",6.69,2.523,7.842,0.783417936,5.1825
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,42,"""Logged GDP per capita""",10.704,7.364,10.933,0.935836369,9.1485
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,42,"""Social support""",0.942,0.54,0.983,0.90744921,0.7615
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,42,"""Healthy life expectancy""",74,48.7,75.1,0.958333333,61.9
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,42,"""Freedom to make life choices""",0.822,0.561,0.96,0.654135338,0.7605
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,42,"""Generosity""",-0.147,-0.236,0.509,0.119463087,0.1365
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,42,"""Perceptions of corruption""",0.571,0.242,0.918,0.486686391,0.58
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,43,"""Ladder score""",4.852,2.523,7.842,0.43786426,5.1825
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,43,"""Logged GDP per capita""",9.603,7.364,10.933,0.627346596,9.1485
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,43,"""Social support""",0.776,0.54,0.983,0.532731377,0.7615
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,43,"""Healthy life expectancy""",59.962,48.7,75.1,0.426590909,61.9
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,43,"""Freedom to make life choices""",0.731,0.561,0.96,0.426065163,0.7605
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,43,"""Generosity""",-0.2,-0.236,0.509,0.048322148,0.1365
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,43,"""Perceptions of corruption""",0.84,0.242,0.918,0.884615385,0.58
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,44,"""Ladder score""",5.051,2.523,7.842,0.475277308,5.1825
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,44,"""Logged GDP per capita""",7.686,7.364,10.933,0.090221351,9.1485
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,44,"""Social support""",0.69,0.54,0.983,0.338600451,0.7615
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,44,"""Healthy life expectancy""",55.16,48.7,75.1,0.24469697,61.9
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,44,"""Freedom to make life choices""",0.697,0.561,0.96,0.34085213,0.7605
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,44,"""Generosity""",0.424,-0.236,0.509,0.88590604,0.1365
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,44,"""Perceptions of corruption""",0.746,0.242,0.918,0.74556213,0.58
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,45,"""Ladder score""",4.891,2.523,7.842,0.445196466,5.1825
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,45,"""Logged GDP per capita""",9.585,7.364,10.933,0.622303166,9.1485
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,45,"""Social support""",0.671,0.54,0.983,0.295711061,0.7615
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,45,"""Healthy life expectancy""",64.3,48.7,75.1,0.590909091,61.9
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,45,"""Freedom to make life choices""",0.783,0.561,0.96,0.556390977,0.7605
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,45,"""Generosity""",-0.238,-0.236,0.509,-0.002684564,0.1365
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,45,"""Perceptions of corruption""",0.655,0.242,0.918,0.610946746,0.58
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,46,"""Ladder score""",7.155,2.523,7.842,0.870840384,5.1825
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,46,"""Logged GDP per capita""",10.873,7.364,10.933,0.983188568,9.1485
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,46,"""Social support""",0.903,0.54,0.983,0.819413093,0.7615
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,46,"""Healthy life expectancy""",72.5,48.7,75.1,0.901515152,61.9
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,46,"""Freedom to make life choices""",0.875,0.561,0.96,0.786967419,0.7605
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,46,"""Generosity""",0.011,-0.236,0.509,0.331543624,0.1365
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,46,"""Perceptions of corruption""",0.46,0.242,0.918,0.322485207,0.58
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,47,"""Ladder score""",5.088,2.523,7.842,0.482233503,5.1825
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,47,"""Logged GDP per capita""",8.58,7.364,10.933,0.340711684,9.1485
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,47,"""Social support""",0.727,0.54,0.983,0.422121896,0.7615
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,47,"""Healthy life expectancy""",57.586,48.7,75.1,0.336590909,61.9
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,47,"""Freedom to make life choices""",0.807,0.561,0.96,0.616541353,0.7605
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,47,"""Generosity""",0.123,-0.236,0.509,0.481879195,0.1365
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,47,"""Perceptions of corruption""",0.848,0.242,0.918,0.896449704,0.58
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,48,"""Ladder score""",5.723,2.523,7.842,0.601616845,5.1825
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,48,"""Logged GDP per capita""",10.279,7.364,10.933,0.816755394,9.1485
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,48,"""Social support""",0.823,0.54,0.983,0.638826185,0.7615
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,48,"""Healthy life expectancy""",72.6,48.7,75.1,0.90530303,61.9
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,48,"""Freedom to make life choices""",0.582,0.561,0.96,0.052631579,0.7605
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,48,"""Generosity""",-0.288,-0.236,0.509,-0.069798658,0.1365
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,48,"""Perceptions of corruption""",0.823,0.242,0.918,0.859467456,0.58
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,49,"""Ladder score""",6.435,2.523,7.842,0.735476593,5.1825
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,49,"""Logged GDP per capita""",9.053,7.364,10.933,0.473241804,9.1485
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,49,"""Social support""",0.813,0.54,0.983,0.616252822,0.7615
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,49,"""Healthy life expectancy""",64.958,48.7,75.1,0.615833333,61.9
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,49,"""Freedom to make life choices""",0.906,0.561,0.96,0.864661654,0.7605
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,49,"""Generosity""",-0.038,-0.236,0.509,0.265771812,0.1365
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,49,"""Perceptions of corruption""",0.775,0.242,0.918,0.788461538,0.58
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,50,"""Ladder score""",4.984,2.523,7.842,0.462680955,5.1825
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,50,"""Logged GDP per capita""",7.838,7.364,10.933,0.132810311,9.1485
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,50,"""Social support""",0.639,0.54,0.983,0.223476298,0.7615
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,50,"""Healthy life expectancy""",55.008,48.7,75.1,0.238939394,61.9
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,50,"""Freedom to make life choices""",0.697,0.561,0.96,0.34085213,0.7605
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,50,"""Generosity""",0.095,-0.236,0.509,0.444295302,0.1365
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,50,"""Perceptions of corruption""",0.766,0.242,0.918,0.775147929,0.58
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,51,"""Ladder score""",3.615,2.523,7.842,0.205301748,5.1825
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,51,"""Logged GDP per capita""",7.477,7.364,10.933,0.03166153,9.1485
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,51,"""Social support""",0.54,0.54,0.983,0,0.7615
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,51,"""Healthy life expectancy""",55.7,48.7,75.1,0.265151515,61.9
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,51,"""Freedom to make life choices""",0.593,0.561,0.96,0.080200501,0.7605
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,51,"""Generosity""",0.422,-0.236,0.509,0.883221477,0.1365
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,51,"""Perceptions of corruption""",0.721,0.242,0.918,0.708579882,0.58
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,52,"""Ladder score""",5.919,2.523,7.842,0.638465877,5.1825
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,52,"""Logged GDP per capita""",8.648,7.364,10.933,0.35976464,9.1485
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,52,"""Social support""",0.812,0.54,0.983,0.613995485,0.7615
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,52,"""Healthy life expectancy""",67.3,48.7,75.1,0.704545455,61.9
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,52,"""Freedom to make life choices""",0.857,0.561,0.96,0.741854637,0.7605
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,52,"""Generosity""",0.081,-0.236,0.509,0.425503356,0.1365
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,52,"""Perceptions of corruption""",0.809,0.242,0.918,0.838757396,0.58
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,53,"""Ladder score""",5.477,2.523,7.842,0.55536755,5.1825
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,53,"""Logged GDP per capita""",11,7.364,10.933,1.018772765,9.1485
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,53,"""Social support""",0.836,0.54,0.983,0.668171558,0.7615
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,53,"""Healthy life expectancy""",76.82,48.7,75.1,1.065151515,61.9
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,53,"""Freedom to make life choices""",0.717,0.561,0.96,0.390977444,0.7605
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,53,"""Generosity""",0.067,-0.236,0.509,0.406711409,0.1365
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,53,"""Perceptions of corruption""",0.403,0.242,0.918,0.23816568,0.58
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,54,"""Ladder score""",5.992,2.523,7.842,0.652190261,5.1825
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,54,"""Logged GDP per capita""",10.358,7.364,10.933,0.838890446,9.1485
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,54,"""Social support""",0.943,0.54,0.983,0.909706546,0.7615
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,54,"""Healthy life expectancy""",68,48.7,75.1,0.731060606,61.9
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,54,"""Freedom to make life choices""",0.755,0.561,0.96,0.486215539,0.7605
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,54,"""Generosity""",-0.186,-0.236,0.509,0.067114094,0.1365
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,54,"""Perceptions of corruption""",0.876,0.242,0.918,0.937869822,0.58
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,55,"""Ladder score""",7.554,2.523,7.842,0.945854484,5.1825
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,55,"""Logged GDP per capita""",10.878,7.364,10.933,0.984589521,9.1485
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,55,"""Social support""",0.983,0.54,0.983,1,0.7615
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,55,"""Healthy life expectancy""",73,48.7,75.1,0.920454545,61.9
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,55,"""Freedom to make life choices""",0.955,0.561,0.96,0.987468672,0.7605
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,55,"""Generosity""",0.16,-0.236,0.509,0.531543624,0.1365
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,55,"""Perceptions of corruption""",0.673,0.242,0.918,0.637573964,0.58
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,56,"""Ladder score""",3.819,2.523,7.842,0.243654822,5.1825
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,56,"""Logged GDP per capita""",8.755,7.364,10.933,0.389745027,9.1485
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,56,"""Social support""",0.603,0.54,0.983,0.14221219,0.7615
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,56,"""Healthy life expectancy""",60.633,48.7,75.1,0.452007576,61.9
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,56,"""Freedom to make life choices""",0.893,0.561,0.96,0.832080201,0.7605
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,56,"""Generosity""",0.089,-0.236,0.509,0.436241611,0.1365
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,56,"""Perceptions of corruption""",0.774,0.242,0.918,0.786982249,0.58
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,57,"""Ladder score""",5.345,2.523,7.842,0.530550855,5.1825
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,57,"""Logged GDP per capita""",9.365,7.364,10.933,0.56066125,9.1485
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,57,"""Social support""",0.811,0.54,0.983,0.611738149,0.7615
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,57,"""Healthy life expectancy""",62.236,48.7,75.1,0.512727273,61.9
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,57,"""Freedom to make life choices""",0.873,0.561,0.96,0.781954887,0.7605
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,57,"""Generosity""",0.542,-0.236,0.509,1.044295302,0.1365
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,57,"""Perceptions of corruption""",0.867,0.242,0.918,0.924556213,0.58
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,58,"""Ladder score""",4.721,2.523,7.842,0.413235571,5.1825
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,58,"""Logged GDP per capita""",9.584,7.364,10.933,0.622022976,9.1485
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,58,"""Social support""",0.71,0.54,0.983,0.383747178,0.7615
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,58,"""Healthy life expectancy""",66.3,48.7,75.1,0.666666667,61.9
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,58,"""Freedom to make life choices""",0.608,0.561,0.96,0.117794486,0.7605
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,58,"""Generosity""",0.218,-0.236,0.509,0.609395973,0.1365
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,58,"""Perceptions of corruption""",0.714,0.242,0.918,0.698224852,0.58
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,59,"""Ladder score""",4.854,2.523,7.842,0.438240271,5.1825
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,59,"""Logged GDP per capita""",9.24,7.364,10.933,0.525637433,9.1485
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,59,"""Social support""",0.746,0.54,0.983,0.465011287,0.7615
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,59,"""Healthy life expectancy""",60.583,48.7,75.1,0.450113636,61.9
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,59,"""Freedom to make life choices""",0.63,0.561,0.96,0.172932331,0.7605
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,59,"""Generosity""",-0.053,-0.236,0.509,0.245637584,0.1365
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,59,"""Perceptions of corruption""",0.875,0.242,0.918,0.936390533,0.58
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,60,"""Ladder score""",7.085,2.523,7.842,0.857680015,5.1825
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,60,"""Logged GDP per capita""",11.342,7.364,10.933,1.114597927,9.1485
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,60,"""Social support""",0.947,0.54,0.983,0.918735892,0.7615
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,60,"""Healthy life expectancy""",72.4,48.7,75.1,0.897727273,61.9
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,60,"""Freedom to make life choices""",0.879,0.561,0.96,0.796992481,0.7605
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,60,"""Generosity""",0.077,-0.236,0.509,0.420134228,0.1365
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,60,"""Perceptions of corruption""",0.363,0.242,0.918,0.178994083,0.58
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,61,"""Ladder score""",7.157,2.523,7.842,0.871216394,5.1825
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,61,"""Logged GDP per capita""",10.575,7.364,10.933,0.89969179,9.1485
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,61,"""Social support""",0.939,0.54,0.983,0.900677201,0.7615
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,61,"""Healthy life expectancy""",73.503,48.7,75.1,0.939507576,61.9
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,61,"""Freedom to make life choices""",0.8,0.561,0.96,0.598997494,0.7605
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,61,"""Generosity""",0.031,-0.236,0.509,0.358389262,0.1365
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,61,"""Perceptions of corruption""",0.753,0.242,0.918,0.75591716,0.58
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,62,"""Ladder score""",6.483,2.523,7.842,0.744500846,5.1825
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,62,"""Logged GDP per capita""",10.623,7.364,10.933,0.913140936,9.1485
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,62,"""Social support""",0.88,0.54,0.983,0.767494357,0.7615
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,62,"""Healthy life expectancy""",73.8,48.7,75.1,0.950757576,61.9
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,62,"""Freedom to make life choices""",0.693,0.561,0.96,0.330827068,0.7605
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,62,"""Generosity""",-0.084,-0.236,0.509,0.204026846,0.1365
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,62,"""Perceptions of corruption""",0.866,0.242,0.918,0.923076923,0.58
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,63,"""Ladder score""",5.306,2.523,7.842,0.52321865,5.1825
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,63,"""Logged GDP per capita""",8.551,7.364,10.933,0.332586159,9.1485
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,63,"""Social support""",0.644,0.54,0.983,0.23476298,0.7615
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,63,"""Healthy life expectancy""",50.114,48.7,75.1,0.053560606,61.9
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,63,"""Freedom to make life choices""",0.741,0.561,0.96,0.45112782,0.7605
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,63,"""Generosity""",-0.016,-0.236,0.509,0.295302013,0.1365
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,63,"""Perceptions of corruption""",0.794,0.242,0.918,0.816568047,0.58
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,64,"""Ladder score""",6.309,2.523,7.842,0.71178793,5.1825
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,64,"""Logged GDP per capita""",9.186,7.364,10.933,0.510507145,9.1485
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,64,"""Social support""",0.877,0.54,0.983,0.760722348,0.7615
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,64,"""Healthy life expectancy""",67.5,48.7,75.1,0.712121212,61.9
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,64,"""Freedom to make life choices""",0.89,0.561,0.96,0.824561404,0.7605
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,64,"""Generosity""",-0.137,-0.236,0.509,0.132885906,0.1365
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,64,"""Perceptions of corruption""",0.884,0.242,0.918,0.949704142,0.58
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,65,"""Ladder score""",5.94,2.523,7.842,0.642413988,5.1825
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,65,"""Logged GDP per capita""",10.611,7.364,10.933,0.909778649,9.1485
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,65,"""Social support""",0.884,0.54,0.983,0.776523702,0.7615
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,65,"""Healthy life expectancy""",75.1,48.7,75.1,1,61.9
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,65,"""Freedom to make life choices""",0.796,0.561,0.96,0.588972431,0.7605
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,65,"""Generosity""",-0.258,-0.236,0.509,-0.029530201,0.1365
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,65,"""Perceptions of corruption""",0.638,0.242,0.918,0.585798817,0.58
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,66,"""Ladder score""",4.395,2.523,7.842,0.351945854,5.1825
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,66,"""Logged GDP per capita""",9.182,7.364,10.933,0.509386383,9.1485
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,66,"""Social support""",0.767,0.54,0.983,0.51241535,0.7615
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,66,"""Healthy life expectancy""",67,48.7,75.1,0.693181818,61.9
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,66,"""Freedom to make life choices""",0.755,0.561,0.96,0.486215539,0.7605
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,66,"""Generosity""",-0.167,-0.236,0.509,0.09261745,0.1365
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,66,"""Perceptions of corruption""",0.705,0.242,0.918,0.684911243,0.58
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,67,"""Ladder score""",6.152,2.523,7.842,0.682271104,5.1825
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,67,"""Logged GDP per capita""",10.155,7.364,10.933,0.782011768,9.1485
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,67,"""Social support""",0.952,0.54,0.983,0.930022573,0.7615
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,67,"""Healthy life expectancy""",65.2,48.7,75.1,0.625,61.9
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,67,"""Freedom to make life choices""",0.853,0.561,0.96,0.731829574,0.7605
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,67,"""Generosity""",-0.069,-0.236,0.509,0.224161074,0.1365
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,67,"""Perceptions of corruption""",0.733,0.242,0.918,0.726331361,0.58
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,68,"""Ladder score""",4.607,2.523,7.842,0.39180297,5.1825
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,68,"""Logged GDP per capita""",8.361,7.364,10.933,0.279349958,9.1485
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,68,"""Social support""",0.688,0.54,0.983,0.334085779,0.7615
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,68,"""Healthy life expectancy""",60.704,48.7,75.1,0.45469697,61.9
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,68,"""Freedom to make life choices""",0.779,0.561,0.96,0.546365915,0.7605
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,68,"""Generosity""",0.287,-0.236,0.509,0.702013423,0.1365
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,68,"""Perceptions of corruption""",0.825,0.242,0.918,0.862426036,0.58
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,69,"""Ladder score""",6.372,2.523,7.842,0.723632262,5.1825
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,69,"""Logged GDP per capita""",9.318,7.364,10.933,0.547492295,9.1485
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,69,"""Social support""",0.821,0.54,0.983,0.634311512,0.7615
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,69,"""Healthy life expectancy""",63.813,48.7,75.1,0.572462121,61.9
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,69,"""Freedom to make life choices""",0.869,0.561,0.96,0.771929825,0.7605
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,69,"""Generosity""",0.257,-0.236,0.509,0.661744966,0.1365
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,69,"""Perceptions of corruption""",0.917,0.242,0.918,0.99852071,0.58
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,70,"""Ladder score""",6.106,2.523,7.842,0.673622861,5.1825
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,70,"""Logged GDP per capita""",10.817,7.364,10.933,0.967497899,9.1485
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,70,"""Social support""",0.843,0.54,0.983,0.683972912,0.7615
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,70,"""Healthy life expectancy""",66.9,48.7,75.1,0.689393939,61.9
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,70,"""Freedom to make life choices""",0.867,0.561,0.96,0.766917293,0.7605
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,70,"""Generosity""",-0.104,-0.236,0.509,0.177181208,0.1365
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,70,"""Perceptions of corruption""",0.736,0.242,0.918,0.730769231,0.58
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,71,"""Ladder score""",5.744,2.523,7.842,0.605564956,5.1825
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,71,"""Logged GDP per capita""",8.538,7.364,10.933,0.328943682,9.1485
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,71,"""Social support""",0.893,0.54,0.983,0.796839729,0.7615
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,71,"""Healthy life expectancy""",64.401,48.7,75.1,0.594734848,61.9
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,71,"""Freedom to make life choices""",0.935,0.561,0.96,0.937343358,0.7605
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,71,"""Generosity""",0.119,-0.236,0.509,0.476510067,0.1365
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,71,"""Perceptions of corruption""",0.908,0.242,0.918,0.985207101,0.58
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,72,"""Ladder score""",5.03,2.523,7.842,0.471329197,5.1825
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,72,"""Logged GDP per capita""",8.947,7.364,10.933,0.443541608,9.1485
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,72,"""Social support""",0.728,0.54,0.983,0.424379233,0.7615
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,72,"""Healthy life expectancy""",58.968,48.7,75.1,0.388939394,61.9
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,72,"""Freedom to make life choices""",0.91,0.561,0.96,0.874686717,0.7605
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,72,"""Generosity""",0.123,-0.236,0.509,0.481879195,0.1365
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,72,"""Perceptions of corruption""",0.658,0.242,0.918,0.615384615,0.58
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,73,"""Ladder score""",6.032,2.523,7.842,0.659710472,5.1825
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,73,"""Logged GDP per capita""",10.315,7.364,10.933,0.826842253,9.1485
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,73,"""Social support""",0.927,0.54,0.983,0.873589165,0.7615
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,73,"""Healthy life expectancy""",67.1,48.7,75.1,0.696969697,61.9
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,73,"""Freedom to make life choices""",0.715,0.561,0.96,0.385964912,0.7605
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,73,"""Generosity""",-0.162,-0.236,0.509,0.099328859,0.1365
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,73,"""Perceptions of corruption""",0.8,0.242,0.918,0.825443787,0.58
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,74,"""Ladder score""",4.584,2.523,7.842,0.387478849,5.1825
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,74,"""Logged GDP per capita""",9.626,7.364,10.933,0.633790978,9.1485
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,74,"""Social support""",0.848,0.54,0.983,0.695259594,0.7615
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,74,"""Healthy life expectancy""",67.355,48.7,75.1,0.706628788,61.9
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,74,"""Freedom to make life choices""",0.525,0.561,0.96,-0.090225564,0.7605
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,74,"""Generosity""",-0.073,-0.236,0.509,0.218791946,0.1365
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,74,"""Perceptions of corruption""",0.898,0.242,0.918,0.970414201,0.58
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,75,"""Ladder score""",3.512,2.523,7.842,0.185937206,5.1825
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,75,"""Logged GDP per capita""",7.926,7.364,10.933,0.157467078,9.1485
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,75,"""Social support""",0.787,0.54,0.983,0.557562077,0.7615
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,75,"""Healthy life expectancy""",48.7,48.7,75.1,0,61.9
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,75,"""Freedom to make life choices""",0.715,0.561,0.96,0.385964912,0.7605
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,75,"""Generosity""",-0.131,-0.236,0.509,0.140939597,0.1365
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,75,"""Perceptions of corruption""",0.915,0.242,0.918,0.99556213,0.58
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,76,"""Ladder score""",4.625,2.523,7.842,0.395187065,5.1825
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,76,"""Logged GDP per capita""",7.288,7.364,10.933,-0.02129448,9.1485
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,76,"""Social support""",0.72,0.54,0.983,0.406320542,0.7615
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,76,"""Healthy life expectancy""",56.498,48.7,75.1,0.295378788,61.9
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,76,"""Freedom to make life choices""",0.735,0.561,0.96,0.436090226,0.7605
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,76,"""Generosity""",0.05,-0.236,0.509,0.383892617,0.1365
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,76,"""Perceptions of corruption""",0.85,0.242,0.918,0.899408284,0.58
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,77,"""Ladder score""",5.41,2.523,7.842,0.542771198,5.1825
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,77,"""Logged GDP per capita""",9.622,7.364,10.933,0.632670216,9.1485
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,77,"""Social support""",0.827,0.54,0.983,0.64785553,0.7615
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,77,"""Healthy life expectancy""",62.3,48.7,75.1,0.515151515,61.9
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,77,"""Freedom to make life choices""",0.771,0.561,0.96,0.526315789,0.7605
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,77,"""Generosity""",-0.087,-0.236,0.509,0.2,0.1365
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,77,"""Perceptions of corruption""",0.667,0.242,0.918,0.628698225,0.58
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,78,"""Ladder score""",6.255,2.523,7.842,0.701635646,5.1825
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,78,"""Logged GDP per capita""",10.499,7.364,10.933,0.87839731,9.1485
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,78,"""Social support""",0.935,0.54,0.983,0.891647856,0.7615
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,78,"""Healthy life expectancy""",67.906,48.7,75.1,0.7275,61.9
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,78,"""Freedom to make life choices""",0.773,0.561,0.96,0.531328321,0.7605
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,78,"""Generosity""",-0.203,-0.236,0.509,0.044295302,0.1365
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,78,"""Perceptions of corruption""",0.826,0.242,0.918,0.863905325,0.58
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,79,"""Ladder score""",7.324,2.523,7.842,0.902613273,5.1825
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,79,"""Logged GDP per capita""",11.647,7.364,10.933,1.200056038,9.1485
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,79,"""Social support""",0.908,0.54,0.983,0.830699774,0.7615
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,79,"""Healthy life expectancy""",72.6,48.7,75.1,0.90530303,61.9
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,79,"""Freedom to make life choices""",0.907,0.561,0.96,0.86716792,0.7605
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,79,"""Generosity""",-0.034,-0.236,0.509,0.27114094,0.1365
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,79,"""Perceptions of corruption""",0.386,0.242,0.918,0.213017751,0.58
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,80,"""Ladder score""",4.208,2.523,7.842,0.31678887,5.1825
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,80,"""Logged GDP per capita""",7.396,7.364,10.933,0.008966097,9.1485
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,80,"""Social support""",0.686,0.54,0.983,0.329571106,0.7615
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,80,"""Healthy life expectancy""",59.305,48.7,75.1,0.401704545,61.9
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,80,"""Freedom to make life choices""",0.552,0.561,0.96,-0.022556391,0.7605
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,80,"""Generosity""",-0.005,-0.236,0.509,0.310067114,0.1365
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,80,"""Perceptions of corruption""",0.803,0.242,0.918,0.829881657,0.58
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,81,"""Ladder score""",3.6,2.523,7.842,0.202481669,5.1825
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,81,"""Logged GDP per capita""",6.958,7.364,10.933,-0.113757355,9.1485
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,81,"""Social support""",0.537,0.54,0.983,-0.006772009,0.7615
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,81,"""Healthy life expectancy""",57.948,48.7,75.1,0.35030303,61.9
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,81,"""Freedom to make life choices""",0.78,0.561,0.96,0.54887218,0.7605
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,81,"""Generosity""",0.038,-0.236,0.509,0.367785235,0.1365
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,81,"""Perceptions of corruption""",0.729,0.242,0.918,0.720414201,0.58
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,82,"""Ladder score""",5.384,2.523,7.842,0.537883061,5.1825
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,82,"""Logged GDP per capita""",10.238,7.364,10.933,0.805267582,9.1485
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,82,"""Social support""",0.817,0.54,0.983,0.625282167,0.7615
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,82,"""Healthy life expectancy""",67.102,48.7,75.1,0.697045455,61.9
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,82,"""Freedom to make life choices""",0.895,0.561,0.96,0.837092732,0.7605
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,82,"""Generosity""",0.125,-0.236,0.509,0.484563758,0.1365
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,82,"""Perceptions of corruption""",0.839,0.242,0.918,0.883136095,0.58
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,83,"""Ladder score""",5.198,2.523,7.842,0.502914082,5.1825
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,83,"""Logged GDP per capita""",9.826,7.364,10.933,0.689829084,9.1485
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,83,"""Social support""",0.913,0.54,0.983,0.841986456,0.7615
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,83,"""Healthy life expectancy""",70.6,48.7,75.1,0.829545455,61.9
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,83,"""Freedom to make life choices""",0.854,0.561,0.96,0.73433584,0.7605
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,83,"""Generosity""",0.024,-0.236,0.509,0.348993289,0.1365
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,83,"""Perceptions of corruption""",0.825,0.242,0.918,0.862426036,0.58
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,84,"""Ladder score""",4.723,2.523,7.842,0.413611581,5.1825
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,84,"""Logged GDP per capita""",7.744,7.364,10.933,0.106472401,9.1485
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,84,"""Social support""",0.724,0.54,0.983,0.415349887,0.7615
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,84,"""Healthy life expectancy""",51.969,48.7,75.1,0.123825758,61.9
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,84,"""Freedom to make life choices""",0.697,0.561,0.96,0.34085213,0.7605
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,84,"""Generosity""",-0.036,-0.236,0.509,0.268456376,0.1365
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,84,"""Perceptions of corruption""",0.827,0.242,0.918,0.865384615,0.58
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,85,"""Ladder score""",6.602,2.523,7.842,0.766873472,5.1825
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,85,"""Logged GDP per capita""",10.674,7.364,10.933,0.927430653,9.1485
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,85,"""Social support""",0.931,0.54,0.983,0.88261851,0.7615
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,85,"""Healthy life expectancy""",72.2,48.7,75.1,0.890151515,61.9
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,85,"""Freedom to make life choices""",0.927,0.561,0.96,0.917293233,0.7605
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,85,"""Generosity""",0.133,-0.236,0.509,0.495302013,0.1365
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,85,"""Perceptions of corruption""",0.653,0.242,0.918,0.607988166,0.58
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,86,"""Ladder score""",4.227,2.523,7.842,0.32036097,5.1825
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,86,"""Logged GDP per capita""",8.542,7.364,10.933,0.330064444,9.1485
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,86,"""Social support""",0.795,0.54,0.983,0.575620767,0.7615
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,86,"""Healthy life expectancy""",57.161,48.7,75.1,0.320492424,61.9
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,86,"""Freedom to make life choices""",0.561,0.561,0.96,0,0.7605
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,86,"""Generosity""",-0.106,-0.236,0.509,0.174496644,0.1365
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,86,"""Perceptions of corruption""",0.731,0.242,0.918,0.723372781,0.58
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,87,"""Ladder score""",6.049,2.523,7.842,0.662906561,5.1825
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,87,"""Logged GDP per capita""",10.008,7.364,10.933,0.74082376,9.1485
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,87,"""Social support""",0.905,0.54,0.983,0.823927765,0.7615
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,87,"""Healthy life expectancy""",66.701,48.7,75.1,0.681856061,61.9
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,87,"""Freedom to make life choices""",0.867,0.561,0.96,0.766917293,0.7605
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,87,"""Generosity""",-0.054,-0.236,0.509,0.244295302,0.1365
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,87,"""Perceptions of corruption""",0.789,0.242,0.918,0.809171598,0.58
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,88,"""Ladder score""",6.317,2.523,7.842,0.713291972,5.1825
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,88,"""Logged GDP per capita""",9.859,7.364,10.933,0.699075371,9.1485
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,88,"""Social support""",0.831,0.54,0.983,0.656884876,0.7615
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,88,"""Healthy life expectancy""",68.597,48.7,75.1,0.753674242,61.9
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,88,"""Freedom to make life choices""",0.862,0.561,0.96,0.754385965,0.7605
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,88,"""Generosity""",-0.147,-0.236,0.509,0.119463087,0.1365
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,88,"""Perceptions of corruption""",0.799,0.242,0.918,0.823964497,0.58
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,89,"""Ladder score""",5.766,2.523,7.842,0.609701072,5.1825
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,89,"""Logged GDP per capita""",9.454,7.364,10.933,0.585598207,9.1485
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,89,"""Social support""",0.857,0.54,0.983,0.715575621,0.7615
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,89,"""Healthy life expectancy""",65.699,48.7,75.1,0.643901515,61.9
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,89,"""Freedom to make life choices""",0.822,0.561,0.96,0.654135338,0.7605
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,89,"""Generosity""",-0.079,-0.236,0.509,0.210738255,0.1365
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,89,"""Perceptions of corruption""",0.918,0.242,0.918,1,0.58
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,90,"""Ladder score""",5.677,2.523,7.842,0.592968603,5.1825
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,90,"""Logged GDP per capita""",9.4,7.364,10.933,0.570467918,9.1485
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,90,"""Social support""",0.935,0.54,0.983,0.891647856,0.7615
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,90,"""Healthy life expectancy""",62.5,48.7,75.1,0.522727273,61.9
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,90,"""Freedom to make life choices""",0.708,0.561,0.96,0.368421053,0.7605
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,90,"""Generosity""",0.116,-0.236,0.509,0.472483221,0.1365
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,90,"""Perceptions of corruption""",0.856,0.242,0.918,0.908284024,0.58
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,91,"""Ladder score""",5.581,2.523,7.842,0.574920098,5.1825
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,91,"""Logged GDP per capita""",9.94,7.364,10.933,0.721770804,9.1485
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,91,"""Social support""",0.858,0.54,0.983,0.717832957,0.7615
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,91,"""Healthy life expectancy""",68.699,48.7,75.1,0.757537879,61.9
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,91,"""Freedom to make life choices""",0.708,0.561,0.96,0.368421053,0.7605
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,91,"""Generosity""",-0.034,-0.236,0.509,0.27114094,0.1365
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,91,"""Perceptions of corruption""",0.812,0.242,0.918,0.843195266,0.58
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,92,"""Ladder score""",4.918,2.523,7.842,0.450272608,5.1825
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,92,"""Logged GDP per capita""",8.903,7.364,10.933,0.431213225,9.1485
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,92,"""Social support""",0.56,0.54,0.983,0.045146727,0.7615
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,92,"""Healthy life expectancy""",66.208,48.7,75.1,0.663181818,61.9
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,92,"""Freedom to make life choices""",0.774,0.561,0.96,0.533834586,0.7605
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,92,"""Generosity""",-0.236,-0.236,0.509,0,0.1365
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,92,"""Perceptions of corruption""",0.801,0.242,0.918,0.826923077,0.58
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,93,"""Ladder score""",4.794,2.523,7.842,0.426959955,5.1825
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,93,"""Logged GDP per capita""",7.158,7.364,10.933,-0.057719249,9.1485
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,93,"""Social support""",0.744,0.54,0.983,0.460496614,0.7615
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,93,"""Healthy life expectancy""",54.706,48.7,75.1,0.2275,61.9
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,93,"""Freedom to make life choices""",0.882,0.561,0.96,0.804511278,0.7605
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,93,"""Generosity""",0.061,-0.236,0.509,0.398657718,0.1365
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,93,"""Perceptions of corruption""",0.684,0.242,0.918,0.653846154,0.58
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,94,"""Ladder score""",4.426,2.523,7.842,0.357774018,5.1825
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,94,"""Logged GDP per capita""",8.541,7.364,10.933,0.329784253,9.1485
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,94,"""Social support""",0.779,0.54,0.983,0.539503386,0.7615
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,94,"""Healthy life expectancy""",59.302,48.7,75.1,0.401590909,61.9
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,94,"""Freedom to make life choices""",0.876,0.561,0.96,0.789473684,0.7605
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,94,"""Generosity""",0.509,-0.236,0.509,1,0.1365
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,94,"""Perceptions of corruption""",0.66,0.242,0.918,0.618343195,0.58
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,95,"""Ladder score""",4.574,2.523,7.842,0.385598797,5.1825
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,95,"""Logged GDP per capita""",9.161,7.364,10.933,0.503502382,9.1485
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,95,"""Social support""",0.818,0.54,0.983,0.627539503,0.7615
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,95,"""Healthy life expectancy""",56.799,48.7,75.1,0.306780303,61.9
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,95,"""Freedom to make life choices""",0.719,0.561,0.96,0.395989975,0.7605
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,95,"""Generosity""",-0.149,-0.236,0.509,0.116778523,0.1365
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,95,"""Perceptions of corruption""",0.847,0.242,0.918,0.894970414,0.58
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,96,"""Ladder score""",5.269,2.523,7.842,0.516262455,5.1825
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,96,"""Logged GDP per capita""",8.12,7.364,10.933,0.21182404,9.1485
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,96,"""Social support""",0.774,0.54,0.983,0.528216704,0.7615
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,96,"""Healthy life expectancy""",64.233,48.7,75.1,0.588371212,61.9
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,96,"""Freedom to make life choices""",0.782,0.561,0.96,0.553884712,0.7605
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,96,"""Generosity""",0.152,-0.236,0.509,0.520805369,0.1365
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,96,"""Perceptions of corruption""",0.727,0.242,0.918,0.717455621,0.58
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,97,"""Ladder score""",7.464,2.523,7.842,0.92893401,5.1825
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,97,"""Logged GDP per capita""",10.932,7.364,10.933,0.999719809,9.1485
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,97,"""Social support""",0.942,0.54,0.983,0.90744921,0.7615
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,97,"""Healthy life expectancy""",72.4,48.7,75.1,0.897727273,61.9
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,97,"""Freedom to make life choices""",0.913,0.561,0.96,0.882205514,0.7605
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,97,"""Generosity""",0.175,-0.236,0.509,0.551677852,0.1365
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,97,"""Perceptions of corruption""",0.338,0.242,0.918,0.142011834,0.58
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,98,"""Ladder score""",7.277,2.523,7.842,0.893777026,5.1825
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,98,"""Logged GDP per capita""",10.643,7.364,10.933,0.918744746,9.1485
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,98,"""Social support""",0.948,0.54,0.983,0.920993228,0.7615
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,98,"""Healthy life expectancy""",73.4,48.7,75.1,0.935606061,61.9
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,98,"""Freedom to make life choices""",0.929,0.561,0.96,0.922305764,0.7605
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,98,"""Generosity""",0.134,-0.236,0.509,0.496644295,0.1365
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,98,"""Perceptions of corruption""",0.242,0.242,0.918,0,0.58
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,99,"""Ladder score""",5.972,2.523,7.842,0.648430156,5.1825
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,99,"""Logged GDP per capita""",8.62,7.364,10.933,0.351919305,9.1485
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,99,"""Social support""",0.864,0.54,0.983,0.731376975,0.7615
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,99,"""Healthy life expectancy""",67.657,48.7,75.1,0.718068182,61.9
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,99,"""Freedom to make life choices""",0.836,0.561,0.96,0.689223058,0.7605
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,99,"""Generosity""",0.02,-0.236,0.509,0.343624161,0.1365
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,99,"""Perceptions of corruption""",0.664,0.242,0.918,0.624260355,0.58
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,100,"""Ladder score""",5.074,2.523,7.842,0.479601429,5.1825
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,100,"""Logged GDP per capita""",7.098,7.364,10.933,-0.074530681,9.1485
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,100,"""Social support""",0.641,0.54,0.983,0.227990971,0.7615
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,100,"""Healthy life expectancy""",53.78,48.7,75.1,0.192424242,61.9
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,100,"""Freedom to make life choices""",0.806,0.561,0.96,0.614035088,0.7605
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,100,"""Generosity""",0.018,-0.236,0.509,0.340939597,0.1365
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,100,"""Perceptions of corruption""",0.693,0.242,0.918,0.667159763,0.58
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,101,"""Ladder score""",4.759,2.523,7.842,0.420379771,5.1825
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,101,"""Logged GDP per capita""",8.533,7.364,10.933,0.327542729,9.1485
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,101,"""Social support""",0.74,0.54,0.983,0.451467269,0.7615
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,101,"""Healthy life expectancy""",50.102,48.7,75.1,0.053106061,61.9
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,101,"""Freedom to make life choices""",0.737,0.561,0.96,0.441102757,0.7605
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,101,"""Generosity""",0.037,-0.236,0.509,0.366442953,0.1365
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,101,"""Perceptions of corruption""",0.878,0.242,0.918,0.940828402,0.58
+Northern Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,102,"""Ladder score""",5.536,2.523,7.842,0.566459861,5.1825
+Northern Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,102,"""Logged GDP per capita""",10.576,7.364,10.933,0.899971981,9.1485
+Northern Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,102,"""Social support""",0.82,0.54,0.983,0.632054176,0.7615
+Northern Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,102,"""Healthy life expectancy""",73.898,48.7,75.1,0.954469697,61.9
+Northern Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,102,"""Freedom to make life choices""",0.795,0.561,0.96,0.586466165,0.7605
+Northern Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,102,"""Generosity""",0.012,-0.236,0.509,0.332885906,0.1365
+Northern Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,102,"""Perceptions of corruption""",0.626,0.242,0.918,0.568047337,0.58
+Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,103,"""Ladder score""",5.101,2.523,7.842,0.484677571,5.1825
+Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,103,"""Logged GDP per capita""",9.693,7.364,10.933,0.652563743,9.1485
+Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,103,"""Social support""",0.805,0.54,0.983,0.598194131,0.7615
+Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,103,"""Healthy life expectancy""",65.474,48.7,75.1,0.635378788,61.9
+Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,103,"""Freedom to make life choices""",0.751,0.561,0.96,0.476190476,0.7605
+Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,103,"""Generosity""",0.038,-0.236,0.509,0.367785235,0.1365
+Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,103,"""Perceptions of corruption""",0.905,0.242,0.918,0.980769231,0.58
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,104,"""Ladder score""",7.392,2.523,7.842,0.915397631,5.1825
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,104,"""Logged GDP per capita""",11.053,7.364,10.933,1.033622864,9.1485
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,104,"""Social support""",0.954,0.54,0.983,0.934537246,0.7615
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,104,"""Healthy life expectancy""",73.3,48.7,75.1,0.931818182,61.9
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,104,"""Freedom to make life choices""",0.96,0.561,0.96,1,0.7605
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,104,"""Generosity""",0.093,-0.236,0.509,0.441610738,0.1365
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,104,"""Perceptions of corruption""",0.27,0.242,0.918,0.041420118,0.58
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,105,"""Ladder score""",4.934,2.523,7.842,0.453280692,5.1825
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,105,"""Logged GDP per capita""",8.458,7.364,10.933,0.306528439,9.1485
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,105,"""Social support""",0.651,0.54,0.983,0.250564334,0.7615
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,105,"""Healthy life expectancy""",58.709,48.7,75.1,0.379128788,61.9
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,105,"""Freedom to make life choices""",0.726,0.561,0.96,0.413533835,0.7605
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,105,"""Generosity""",0.098,-0.236,0.509,0.448322148,0.1365
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,105,"""Perceptions of corruption""",0.787,0.242,0.918,0.806213018,0.58
+Palestine,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,106,"""Ladder score""",4.517,2.523,7.842,0.374882497,5.1825
+Palestine,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,106,"""Logged GDP per capita""",8.485,7.364,10.933,0.314093584,9.1485
+Palestine,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,106,"""Social support""",0.826,0.54,0.983,0.645598194,0.7615
+Palestine,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,106,"""Healthy life expectancy""",62.25,48.7,75.1,0.513257576,61.9
+Palestine,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,106,"""Freedom to make life choices""",0.653,0.561,0.96,0.230576441,0.7605
+Palestine,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,106,"""Generosity""",-0.163,-0.236,0.509,0.097986577,0.1365
+Palestine,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,106,"""Perceptions of corruption""",0.821,0.242,0.918,0.856508876,0.58
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,107,"""Ladder score""",6.18,2.523,7.842,0.687535251,5.1825
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,107,"""Logged GDP per capita""",10.35,7.364,10.933,0.836648921,9.1485
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,107,"""Social support""",0.896,0.54,0.983,0.803611738,0.7615
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,107,"""Healthy life expectancy""",69.652,48.7,75.1,0.793636364,61.9
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,107,"""Freedom to make life choices""",0.872,0.561,0.96,0.779448622,0.7605
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,107,"""Generosity""",-0.166,-0.236,0.509,0.093959732,0.1365
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,107,"""Perceptions of corruption""",0.856,0.242,0.918,0.908284024,0.58
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,108,"""Ladder score""",5.653,2.523,7.842,0.588456477,5.1825
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,108,"""Logged GDP per capita""",9.448,7.364,10.933,0.583917064,9.1485
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,108,"""Social support""",0.893,0.54,0.983,0.796839729,0.7615
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,108,"""Healthy life expectancy""",65.9,48.7,75.1,0.651515152,61.9
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,108,"""Freedom to make life choices""",0.876,0.561,0.96,0.789473684,0.7605
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,108,"""Generosity""",0.028,-0.236,0.509,0.354362416,0.1365
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,108,"""Perceptions of corruption""",0.882,0.242,0.918,0.946745562,0.58
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,109,"""Ladder score""",5.84,2.523,7.842,0.623613461,5.1825
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,109,"""Logged GDP per capita""",9.458,7.364,10.933,0.586718969,9.1485
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,109,"""Social support""",0.832,0.54,0.983,0.659142212,0.7615
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,109,"""Healthy life expectancy""",68.25,48.7,75.1,0.740530303,61.9
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,109,"""Freedom to make life choices""",0.822,0.561,0.96,0.654135338,0.7605
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,109,"""Generosity""",-0.154,-0.236,0.509,0.110067114,0.1365
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,109,"""Perceptions of corruption""",0.891,0.242,0.918,0.960059172,0.58
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,110,"""Ladder score""",5.88,2.523,7.842,0.631133672,5.1825
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,110,"""Logged GDP per capita""",9.076,7.364,10.933,0.479686187,9.1485
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,110,"""Social support""",0.83,0.54,0.983,0.65462754,0.7615
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,110,"""Healthy life expectancy""",62,48.7,75.1,0.503787879,61.9
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,110,"""Freedom to make life choices""",0.917,0.561,0.96,0.892230576,0.7605
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,110,"""Generosity""",-0.097,-0.236,0.509,0.186577181,0.1365
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,110,"""Perceptions of corruption""",0.742,0.242,0.918,0.73964497,0.58
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,111,"""Ladder score""",6.166,2.523,7.842,0.684903177,5.1825
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,111,"""Logged GDP per capita""",10.382,7.364,10.933,0.845615018,9.1485
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,111,"""Social support""",0.898,0.54,0.983,0.808126411,0.7615
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,111,"""Healthy life expectancy""",69.702,48.7,75.1,0.795530303,61.9
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,111,"""Freedom to make life choices""",0.841,0.561,0.96,0.701754386,0.7605
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,111,"""Generosity""",-0.165,-0.236,0.509,0.095302013,0.1365
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,111,"""Perceptions of corruption""",0.735,0.242,0.918,0.729289941,0.58
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,112,"""Ladder score""",5.929,2.523,7.842,0.64034593,5.1825
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,112,"""Logged GDP per capita""",10.421,7.364,10.933,0.856542449,9.1485
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,112,"""Social support""",0.879,0.54,0.983,0.76523702,0.7615
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,112,"""Healthy life expectancy""",72.6,48.7,75.1,0.90530303,61.9
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,112,"""Freedom to make life choices""",0.892,0.561,0.96,0.829573935,0.7605
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,112,"""Generosity""",-0.244,-0.236,0.509,-0.010738255,0.1365
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,112,"""Perceptions of corruption""",0.887,0.242,0.918,0.954142012,0.58
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,113,"""Ladder score""",6.14,2.523,7.842,0.68001504,5.1825
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,113,"""Logged GDP per capita""",10.284,7.364,10.933,0.818156346,9.1485
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,113,"""Social support""",0.832,0.54,0.983,0.659142212,0.7615
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,113,"""Healthy life expectancy""",67.355,48.7,75.1,0.706628788,61.9
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,113,"""Freedom to make life choices""",0.845,0.561,0.96,0.711779449,0.7605
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,113,"""Generosity""",-0.219,-0.236,0.509,0.022818792,0.1365
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,113,"""Perceptions of corruption""",0.938,0.242,0.918,1.029585799,0.58
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,114,"""Ladder score""",5.477,2.523,7.842,0.55536755,5.1825
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,114,"""Logged GDP per capita""",10.189,7.364,10.933,0.791538246,9.1485
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,114,"""Social support""",0.903,0.54,0.983,0.819413093,0.7615
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,114,"""Healthy life expectancy""",64.703,48.7,75.1,0.606174242,61.9
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,114,"""Freedom to make life choices""",0.718,0.561,0.96,0.393483709,0.7605
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,114,"""Generosity""",-0.111,-0.236,0.509,0.167785235,0.1365
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,114,"""Perceptions of corruption""",0.845,0.242,0.918,0.892011834,0.58
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,115,"""Ladder score""",3.415,2.523,7.842,0.167700696,5.1825
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,115,"""Logged GDP per capita""",7.676,7.364,10.933,0.087419445,9.1485
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,115,"""Social support""",0.552,0.54,0.983,0.027088036,0.7615
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,115,"""Healthy life expectancy""",61.4,48.7,75.1,0.481060606,61.9
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,115,"""Freedom to make life choices""",0.897,0.561,0.96,0.842105263,0.7605
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,115,"""Generosity""",0.061,-0.236,0.509,0.398657718,0.1365
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,115,"""Perceptions of corruption""",0.167,0.242,0.918,-0.110946746,0.58
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,116,"""Ladder score""",6.494,2.523,7.842,0.746568904,5.1825
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,116,"""Logged GDP per capita""",10.743,7.364,10.933,0.946763799,9.1485
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,116,"""Social support""",0.891,0.54,0.983,0.792325056,0.7615
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,116,"""Healthy life expectancy""",66.603,48.7,75.1,0.678143939,61.9
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,116,"""Freedom to make life choices""",0.877,0.561,0.96,0.79197995,0.7605
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,116,"""Generosity""",-0.149,-0.236,0.509,0.116778523,0.1365
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,116,"""Perceptions of corruption""",0.684,0.242,0.918,0.653846154,0.58
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,117,"""Ladder score""",5.132,2.523,7.842,0.490505734,5.1825
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,117,"""Logged GDP per capita""",8.118,7.364,10.933,0.211263659,9.1485
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,117,"""Social support""",0.71,0.54,0.983,0.383747178,0.7615
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,117,"""Healthy life expectancy""",59.802,48.7,75.1,0.420530303,61.9
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,117,"""Freedom to make life choices""",0.695,0.561,0.96,0.335839599,0.7605
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,117,"""Generosity""",-0.046,-0.236,0.509,0.255033557,0.1365
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,117,"""Perceptions of corruption""",0.801,0.242,0.918,0.826923077,0.58
+Republic of Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,118,"""Ladder score""",6.078,2.523,7.842,0.668358714,5.1825
+Republic of Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,118,"""Logged GDP per capita""",9.787,7.364,10.933,0.678901653,9.1485
+Republic of Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,118,"""Social support""",0.873,0.54,0.983,0.751693002,0.7615
+Republic of Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,118,"""Healthy life expectancy""",68.6,48.7,75.1,0.753787879,61.9
+Republic of Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,118,"""Freedom to make life choices""",0.778,0.561,0.96,0.543859649,0.7605
+Republic of Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,118,"""Generosity""",0.002,-0.236,0.509,0.319463087,0.1365
+Republic of Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,118,"""Perceptions of corruption""",0.835,0.242,0.918,0.877218935,0.58
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,119,"""Ladder score""",3.849,2.523,7.842,0.24929498,5.1825
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,119,"""Logged GDP per capita""",7.434,7.364,10.933,0.019613337,9.1485
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,119,"""Social support""",0.63,0.54,0.983,0.203160271,0.7615
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,119,"""Healthy life expectancy""",51.651,48.7,75.1,0.111780303,61.9
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,119,"""Freedom to make life choices""",0.717,0.561,0.96,0.390977444,0.7605
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,119,"""Generosity""",0.084,-0.236,0.509,0.429530201,0.1365
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,119,"""Perceptions of corruption""",0.866,0.242,0.918,0.923076923,0.58
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,120,"""Ladder score""",6.377,2.523,7.842,0.724572288,5.1825
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,120,"""Logged GDP per capita""",11.488,7.364,10.933,1.155505744,9.1485
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,120,"""Social support""",0.915,0.54,0.983,0.846501129,0.7615
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,120,"""Healthy life expectancy""",76.953,48.7,75.1,1.070189394,61.9
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,120,"""Freedom to make life choices""",0.927,0.561,0.96,0.917293233,0.7605
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,120,"""Generosity""",-0.018,-0.236,0.509,0.29261745,0.1365
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,120,"""Perceptions of corruption""",0.082,0.242,0.918,-0.236686391,0.58
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,121,"""Ladder score""",6.331,2.523,7.842,0.715924046,5.1825
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,121,"""Logged GDP per capita""",10.369,7.364,10.933,0.841972541,9.1485
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,121,"""Social support""",0.936,0.54,0.983,0.893905192,0.7615
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,121,"""Healthy life expectancy""",69.201,48.7,75.1,0.77655303,61.9
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,121,"""Freedom to make life choices""",0.766,0.561,0.96,0.513784461,0.7605
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,121,"""Generosity""",-0.124,-0.236,0.509,0.15033557,0.1365
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,121,"""Perceptions of corruption""",0.911,0.242,0.918,0.98964497,0.58
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,122,"""Ladder score""",6.461,2.523,7.842,0.74036473,5.1825
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,122,"""Logged GDP per capita""",10.529,7.364,10.933,0.886803026,9.1485
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,122,"""Social support""",0.948,0.54,0.983,0.920993228,0.7615
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,122,"""Healthy life expectancy""",71.4,48.7,75.1,0.859848485,61.9
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,122,"""Freedom to make life choices""",0.949,0.561,0.96,0.972431078,0.7605
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,122,"""Generosity""",-0.101,-0.236,0.509,0.181208054,0.1365
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,122,"""Perceptions of corruption""",0.806,0.242,0.918,0.834319527,0.58
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,123,"""Ladder score""",4.956,2.523,7.842,0.457416808,5.1825
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,123,"""Logged GDP per capita""",9.403,7.364,10.933,0.57130849,9.1485
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,123,"""Social support""",0.86,0.54,0.983,0.72234763,0.7615
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,123,"""Healthy life expectancy""",56.904,48.7,75.1,0.310757576,61.9
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,123,"""Freedom to make life choices""",0.749,0.561,0.96,0.471177945,0.7605
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,123,"""Generosity""",-0.067,-0.236,0.509,0.226845638,0.1365
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,123,"""Perceptions of corruption""",0.86,0.242,0.918,0.914201183,0.58
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,124,"""Ladder score""",5.845,2.523,7.842,0.624553487,5.1825
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,124,"""Logged GDP per capita""",10.651,7.364,10.933,0.920986271,9.1485
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,124,"""Social support""",0.799,0.54,0.983,0.584650113,0.7615
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,124,"""Healthy life expectancy""",73.9,48.7,75.1,0.954545455,61.9
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,124,"""Freedom to make life choices""",0.672,0.561,0.96,0.278195489,0.7605
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,124,"""Generosity""",-0.083,-0.236,0.509,0.205369128,0.1365
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,124,"""Perceptions of corruption""",0.727,0.242,0.918,0.717455621,0.58
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,125,"""Ladder score""",6.491,2.523,7.842,0.746004888,5.1825
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,125,"""Logged GDP per capita""",10.571,7.364,10.933,0.898571028,9.1485
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,125,"""Social support""",0.932,0.54,0.983,0.884875847,0.7615
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,125,"""Healthy life expectancy""",74.7,48.7,75.1,0.984848485,61.9
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,125,"""Freedom to make life choices""",0.761,0.561,0.96,0.501253133,0.7605
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,125,"""Generosity""",-0.081,-0.236,0.509,0.208053691,0.1365
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,125,"""Perceptions of corruption""",0.745,0.242,0.918,0.74408284,0.58
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,126,"""Ladder score""",4.325,2.523,7.842,0.338785486,5.1825
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,126,"""Logged GDP per capita""",9.47,7.364,10.933,0.590081255,9.1485
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,126,"""Social support""",0.827,0.54,0.983,0.64785553,0.7615
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,126,"""Healthy life expectancy""",67.299,48.7,75.1,0.704507576,61.9
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,126,"""Freedom to make life choices""",0.841,0.561,0.96,0.701754386,0.7605
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,126,"""Generosity""",0.079,-0.236,0.509,0.422818792,0.1365
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,126,"""Perceptions of corruption""",0.863,0.242,0.918,0.918639053,0.58
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,127,"""Ladder score""",4.308,2.523,7.842,0.335589397,5.1825
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,127,"""Logged GDP per capita""",9.065,7.364,10.933,0.476604091,9.1485
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,127,"""Social support""",0.77,0.54,0.983,0.519187359,0.7615
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,127,"""Healthy life expectancy""",50.833,48.7,75.1,0.080795455,61.9
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,127,"""Freedom to make life choices""",0.647,0.561,0.96,0.215538847,0.7605
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,127,"""Generosity""",-0.185,-0.236,0.509,0.068456376,0.1365
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,127,"""Perceptions of corruption""",0.708,0.242,0.918,0.689349112,0.58
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,128,"""Ladder score""",7.363,2.523,7.842,0.909945478,5.1825
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,128,"""Logged GDP per capita""",10.867,7.364,10.933,0.981507425,9.1485
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,128,"""Social support""",0.934,0.54,0.983,0.889390519,0.7615
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,128,"""Healthy life expectancy""",72.7,48.7,75.1,0.909090909,61.9
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,128,"""Freedom to make life choices""",0.945,0.561,0.96,0.962406015,0.7605
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,128,"""Generosity""",0.086,-0.236,0.509,0.432214765,0.1365
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,128,"""Perceptions of corruption""",0.237,0.242,0.918,-0.00739645,0.58
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,129,"""Ladder score""",7.571,2.523,7.842,0.949050573,5.1825
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,129,"""Logged GDP per capita""",11.117,7.364,10.933,1.051555057,9.1485
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,129,"""Social support""",0.942,0.54,0.983,0.90744921,0.7615
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,129,"""Healthy life expectancy""",74.4,48.7,75.1,0.973484848,61.9
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,129,"""Freedom to make life choices""",0.919,0.561,0.96,0.897243108,0.7605
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,129,"""Generosity""",0.025,-0.236,0.509,0.35033557,0.1365
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,129,"""Perceptions of corruption""",0.292,0.242,0.918,0.073964497,0.58
+Taiwan,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,130,"""Ladder score""",6.584,2.523,7.842,0.763489378,5.1825
+Taiwan,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,130,"""Logged GDP per capita""",10.871,7.364,10.933,0.982628187,9.1485
+Taiwan,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,130,"""Social support""",0.898,0.54,0.983,0.808126411,0.7615
+Taiwan,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,130,"""Healthy life expectancy""",69.6,48.7,75.1,0.791666667,61.9
+Taiwan,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,130,"""Freedom to make life choices""",0.784,0.561,0.96,0.558897243,0.7605
+Taiwan,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,130,"""Generosity""",-0.07,-0.236,0.509,0.222818792,0.1365
+Taiwan,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,130,"""Perceptions of corruption""",0.721,0.242,0.918,0.708579882,0.58
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,131,"""Ladder score""",5.466,2.523,7.842,0.553299492,5.1825
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,131,"""Logged GDP per capita""",8.091,7.364,10.933,0.203698515,9.1485
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,131,"""Social support""",0.86,0.54,0.983,0.72234763,0.7615
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,131,"""Healthy life expectancy""",64.281,48.7,75.1,0.590189394,61.9
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,131,"""Freedom to make life choices""",0.832,0.561,0.96,0.679197995,0.7605
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,131,"""Generosity""",-0.056,-0.236,0.509,0.241610738,0.1365
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,131,"""Perceptions of corruption""",0.553,0.242,0.918,0.460059172,0.58
+United Republic of Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,132,"""Ladder score""",3.623,2.523,7.842,0.206805791,5.1825
+United Republic of Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,132,"""Logged GDP per capita""",7.876,7.364,10.933,0.143457551,9.1485
+United Republic of Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,132,"""Social support""",0.702,0.54,0.983,0.365688488,0.7615
+United Republic of Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,132,"""Healthy life expectancy""",57.999,48.7,75.1,0.352234848,61.9
+United Republic of Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,132,"""Freedom to make life choices""",0.833,0.561,0.96,0.681704261,0.7605
+United Republic of Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,132,"""Generosity""",0.183,-0.236,0.509,0.562416107,0.1365
+United Republic of Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,132,"""Perceptions of corruption""",0.577,0.242,0.918,0.49556213,0.58
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,133,"""Ladder score""",5.985,2.523,7.842,0.650874224,5.1825
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,133,"""Logged GDP per capita""",9.805,7.364,10.933,0.683945083,9.1485
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,133,"""Social support""",0.888,0.54,0.983,0.785553047,0.7615
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,133,"""Healthy life expectancy""",67.401,48.7,75.1,0.708371212,61.9
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,133,"""Freedom to make life choices""",0.884,0.561,0.96,0.80952381,0.7605
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,133,"""Generosity""",0.287,-0.236,0.509,0.702013423,0.1365
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,133,"""Perceptions of corruption""",0.895,0.242,0.918,0.965976331,0.58
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,134,"""Ladder score""",4.107,2.523,7.842,0.297800338,5.1825
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,134,"""Logged GDP per capita""",7.362,7.364,10.933,-0.000560381,9.1485
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,134,"""Social support""",0.569,0.54,0.983,0.065462754,0.7615
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,134,"""Healthy life expectancy""",54.914,48.7,75.1,0.235378788,61.9
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,134,"""Freedom to make life choices""",0.619,0.561,0.96,0.145363409,0.7605
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,134,"""Generosity""",0.032,-0.236,0.509,0.359731544,0.1365
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,134,"""Perceptions of corruption""",0.772,0.242,0.918,0.784023669,0.58
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,135,"""Ladder score""",4.596,2.523,7.842,0.389734913,5.1825
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,135,"""Logged GDP per capita""",9.266,7.364,10.933,0.532922387,9.1485
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,135,"""Social support""",0.691,0.54,0.983,0.340857788,0.7615
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,135,"""Healthy life expectancy""",67.201,48.7,75.1,0.700795455,61.9
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,135,"""Freedom to make life choices""",0.656,0.561,0.96,0.238095238,0.7605
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,135,"""Generosity""",-0.201,-0.236,0.509,0.046979866,0.1365
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,135,"""Perceptions of corruption""",0.87,0.242,0.918,0.928994083,0.58
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,136,"""Ladder score""",4.948,2.523,7.842,0.455912766,5.1825
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,136,"""Logged GDP per capita""",10.24,7.364,10.933,0.805827963,9.1485
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,136,"""Social support""",0.822,0.54,0.983,0.636568849,0.7615
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,136,"""Healthy life expectancy""",67.199,48.7,75.1,0.700719697,61.9
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,136,"""Freedom to make life choices""",0.576,0.561,0.96,0.037593985,0.7605
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,136,"""Generosity""",-0.139,-0.236,0.509,0.130201342,0.1365
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,136,"""Perceptions of corruption""",0.776,0.242,0.918,0.789940828,0.58
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,137,"""Ladder score""",5.066,2.523,7.842,0.478097387,5.1825
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,137,"""Logged GDP per capita""",9.629,7.364,10.933,0.634631549,9.1485
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,137,"""Social support""",0.983,0.54,0.983,1,0.7615
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,137,"""Healthy life expectancy""",62.409,48.7,75.1,0.519280303,61.9
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,137,"""Freedom to make life choices""",0.877,0.561,0.96,0.79197995,0.7605
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,137,"""Generosity""",0.273,-0.236,0.509,0.683221477,0.1365
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,137,"""Perceptions of corruption""",0.888,0.242,0.918,0.955621302,0.58
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,138,"""Ladder score""",4.636,2.523,7.842,0.397255123,5.1825
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,138,"""Logged GDP per capita""",7.677,7.364,10.933,0.087699636,9.1485
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,138,"""Social support""",0.781,0.54,0.983,0.544018059,0.7615
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,138,"""Healthy life expectancy""",56.101,48.7,75.1,0.280340909,61.9
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,138,"""Freedom to make life choices""",0.709,0.561,0.96,0.370927318,0.7605
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,138,"""Generosity""",0.122,-0.236,0.509,0.480536913,0.1365
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,138,"""Perceptions of corruption""",0.855,0.242,0.918,0.906804734,0.58
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,139,"""Ladder score""",4.875,2.523,7.842,0.442188381,5.1825
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,139,"""Logged GDP per capita""",9.436,7.364,10.933,0.580554777,9.1485
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,139,"""Social support""",0.888,0.54,0.983,0.785553047,0.7615
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,139,"""Healthy life expectancy""",64.902,48.7,75.1,0.613712121,61.9
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,139,"""Freedom to make life choices""",0.724,0.561,0.96,0.408521303,0.7605
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,139,"""Generosity""",-0.011,-0.236,0.509,0.302013423,0.1365
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,139,"""Perceptions of corruption""",0.924,0.242,0.918,1.00887574,0.58
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,140,"""Ladder score""",6.561,2.523,7.842,0.759165257,5.1825
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,140,"""Logged GDP per capita""",11.085,7.364,10.933,1.04258896,9.1485
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,140,"""Social support""",0.844,0.54,0.983,0.686230248,0.7615
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,140,"""Healthy life expectancy""",67.333,48.7,75.1,0.705795455,61.9
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,140,"""Freedom to make life choices""",0.932,0.561,0.96,0.929824561,0.7605
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,140,"""Generosity""",0.074,-0.236,0.509,0.416107383,0.1365
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,140,"""Perceptions of corruption""",0.589,0.242,0.918,0.513313609,0.58
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,141,"""Ladder score""",7.064,2.523,7.842,0.853731904,5.1825
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,141,"""Logged GDP per capita""",10.707,7.364,10.933,0.93667694,9.1485
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,141,"""Social support""",0.934,0.54,0.983,0.889390519,0.7615
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,141,"""Healthy life expectancy""",72.5,48.7,75.1,0.901515152,61.9
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,141,"""Freedom to make life choices""",0.859,0.561,0.96,0.746867168,0.7605
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,141,"""Generosity""",0.233,-0.236,0.509,0.629530201,0.1365
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,141,"""Perceptions of corruption""",0.459,0.242,0.918,0.321005917,0.58
+United States of America,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,142,"""Ladder score""",6.951,2.523,7.842,0.83248731,5.1825
+United States of America,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,142,"""Logged GDP per capita""",11.023,7.364,10.933,1.025217148,9.1485
+United States of America,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,142,"""Social support""",0.92,0.54,0.983,0.85778781,0.7615
+United States of America,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,142,"""Healthy life expectancy""",68.2,48.7,75.1,0.738636364,61.9
+United States of America,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,142,"""Freedom to make life choices""",0.837,0.561,0.96,0.691729323,0.7605
+United States of America,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,142,"""Generosity""",0.098,-0.236,0.509,0.448322148,0.1365
+United States of America,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,142,"""Perceptions of corruption""",0.698,0.242,0.918,0.674556213,0.58
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,143,"""Ladder score""",6.431,2.523,7.842,0.734724572,5.1825
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,143,"""Logged GDP per capita""",9.966,7.364,10.933,0.729055758,9.1485
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,143,"""Social support""",0.925,0.54,0.983,0.869074492,0.7615
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,143,"""Healthy life expectancy""",69.1,48.7,75.1,0.772727273,61.9
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,143,"""Freedom to make life choices""",0.896,0.561,0.96,0.839598997,0.7605
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,143,"""Generosity""",-0.092,-0.236,0.509,0.193288591,0.1365
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,143,"""Perceptions of corruption""",0.59,0.242,0.918,0.514792899,0.58
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,144,"""Ladder score""",6.179,2.523,7.842,0.687347246,5.1825
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,144,"""Logged GDP per capita""",8.836,7.364,10.933,0.41244046,9.1485
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,144,"""Social support""",0.918,0.54,0.983,0.853273138,0.7615
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,144,"""Healthy life expectancy""",65.255,48.7,75.1,0.627083333,61.9
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,144,"""Freedom to make life choices""",0.97,0.561,0.96,1.025062657,0.7605
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,144,"""Generosity""",0.311,-0.236,0.509,0.734228188,0.1365
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,144,"""Perceptions of corruption""",0.515,0.242,0.918,0.403846154,0.58
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,145,"""Ladder score""",4.892,2.523,7.842,0.445384471,5.1825
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,145,"""Logged GDP per capita""",9.073,7.364,10.933,0.478845615,9.1485
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,145,"""Social support""",0.861,0.54,0.983,0.724604966,0.7615
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,145,"""Healthy life expectancy""",66.7,48.7,75.1,0.681818182,61.9
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,145,"""Freedom to make life choices""",0.615,0.561,0.96,0.135338346,0.7605
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,145,"""Generosity""",-0.169,-0.236,0.509,0.089932886,0.1365
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,145,"""Perceptions of corruption""",0.827,0.242,0.918,0.865384615,0.58
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,146,"""Ladder score""",5.411,2.523,7.842,0.542959203,5.1825
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,146,"""Logged GDP per capita""",8.973,7.364,10.933,0.450826562,9.1485
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,146,"""Social support""",0.85,0.54,0.983,0.699774266,0.7615
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,146,"""Healthy life expectancy""",68.034,48.7,75.1,0.732348485,61.9
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,146,"""Freedom to make life choices""",0.94,0.561,0.96,0.949874687,0.7605
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,146,"""Generosity""",-0.098,-0.236,0.509,0.185234899,0.1365
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,146,"""Perceptions of corruption""",0.796,0.242,0.918,0.819526627,0.58
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,147,"""Ladder score""",3.658,2.523,7.842,0.213385975,5.1825
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,147,"""Logged GDP per capita""",7.578,7.364,10.933,0.059960773,9.1485
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,147,"""Social support""",0.832,0.54,0.983,0.659142212,0.7615
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,147,"""Healthy life expectancy""",57.122,48.7,75.1,0.319015152,61.9
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,147,"""Freedom to make life choices""",0.602,0.561,0.96,0.102756892,0.7605
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,147,"""Generosity""",-0.147,-0.236,0.509,0.119463087,0.1365
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,147,"""Perceptions of corruption""",0.8,0.242,0.918,0.825443787,0.58
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,148,"""Ladder score""",4.073,2.523,7.842,0.291408159,5.1825
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,148,"""Logged GDP per capita""",8.145,7.364,10.933,0.218828804,9.1485
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,148,"""Social support""",0.708,0.54,0.983,0.379232506,0.7615
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,148,"""Healthy life expectancy""",55.809,48.7,75.1,0.269280303,61.9
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,148,"""Freedom to make life choices""",0.782,0.561,0.96,0.553884712,0.7605
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,148,"""Generosity""",0.061,-0.236,0.509,0.398657718,0.1365
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,148,"""Perceptions of corruption""",0.823,0.242,0.918,0.859467456,0.58
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,149,"""Ladder score""",3.145,2.523,7.842,0.116939274,5.1825
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,149,"""Logged GDP per capita""",7.943,7.364,10.933,0.162230317,9.1485
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,149,"""Social support""",0.75,0.54,0.983,0.474040632,0.7615
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,149,"""Healthy life expectancy""",56.201,48.7,75.1,0.284128788,61.9
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,149,"""Freedom to make life choices""",0.677,0.561,0.96,0.290726817,0.7605
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,149,"""Generosity""",-0.047,-0.236,0.509,0.253691275,0.1365
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,149,"""Perceptions of corruption""",0.821,0.242,0.918,0.856508876,0.58

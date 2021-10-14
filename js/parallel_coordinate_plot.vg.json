@@ -1,0 +1,123 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Though Vega-Lite supports only one scale per axes, one can create a parallel coordinate plot by folding variables, using `joinaggregate` to normalize their values and using ticks and rules to manually create axes.",
+    "data": {
+      "url": "data/world-happiness-report-2021.csv",
+      "format": {
+        "type": "csv",
+        "parse": {
+          "Ladder score": "number",
+          "Logged GDP per capita": "number",
+          "Social support": "number",
+          "Healthy life expectancy": "number",
+          "Freedom to make life choices": "number",
+          "Generosity": "number",
+          "Perceptions of corruption": "number"
+        }
+      }
+    },
+    "background": "#F7EDE2",
+    "width": 1500,
+    "height": 500,
+    "transform": [
+      {"filter": "datum['Ladder score']"},
+      {"window": [{"op": "count", "as": "index"}]},
+      {
+        "fold": [
+          "Ladder score",
+          "Logged GDP per capita",
+          "Social support",
+          "Healthy life expectancy",
+          "Freedom to make life choices",
+          "Generosity",
+          "Perceptions of corruption"
+        ]
+      },
+      {
+        "joinaggregate": [
+          {"op": "min", "field": "value", "as": "min"},
+          {"op": "max", "field": "value", "as": "max"}
+        ],
+        "groupby": ["key"]
+      },
+      {
+        "calculate": "(datum.value - datum.min) / (datum.max-datum.min)",
+        "as": "norm_val"
+      },
+      {"calculate": "(datum.min + datum.max) / 2", "as": "mid"}
+    ],
+    "layer": [
+      {
+        "mark": {"type": "rule", "color": "#ccc"},
+        "encoding": {"detail": {"aggregate": "count"}, "x": {"field": "key"}}
+      },
+      {
+        "mark": "line",
+        "encoding": {
+          "color": {"type": "nominal", "field": "Continent"},
+          "detail": {"type": "nominal", "field": "index"},
+          "opacity": {"value": 0.5},
+          "x": {"type": "nominal", "field": "key"},
+          "y": {"type": "quantitative", "field": "norm_val", "axis": null},
+          "tooltip": [
+            {"type": "quantitative", "field": "Ladder score"},
+            {"type": "quantitative", "field": "Logged GDP per capita"},
+            {"type": "quantitative", "field": "Social support"},
+            {"type": "quantitative", "field": "Healthy life expectancy"},
+            {"type": "quantitative", "field": "Freedom to make life choices"},
+            {"type": "quantitative", "field": "Generosity"},
+            {"type": "quantitative", "field": "Perceptions of corruption"}
+          ]
+        }
+      },
+      {
+        "encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 0}},
+        "layer": [
+          {
+            "mark": {"type": "text", "style": "label"},
+            "encoding": {"text": {"aggregate": "max", "field": "max"}}
+          },
+          {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
+        ]
+      },
+      {
+        "encoding": {
+          "x": {"type": "nominal", "field": "key"},
+          "y": {"value": 150}
+        },
+        "layer": [
+          {
+            "mark": {"type": "text", "style": "label"},
+            "encoding": {"text": {"aggregate": "min", "field": "mid"}}
+          },
+          {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
+        ]
+      },
+      {
+        "encoding": {
+          "x": {"type": "nominal", "field": "key"},
+          "y": {"value": 300}
+        },
+        "layer": [
+          {
+            "mark": {"type": "text", "style": "label"},
+            "encoding": {"text": {"aggregate": "min", "field": "min"}}
+          },
+          {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
+        ]
+      }
+    ],
+    "config": {
+      "axisX": {
+        "domain": false,
+        "labelAngle": 0,
+        "tickColor": "#ccc",
+        "title": null
+      },
+      "view": {"stroke": null},
+      "style": {
+        "label": {"baseline": "middle", "align": "right", "dx": -5},
+        "tick": {"orient": "horizontal"}
+      }
+    }
+  }
