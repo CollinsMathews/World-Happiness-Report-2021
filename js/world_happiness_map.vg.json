@@ -29,7 +29,7 @@
             "mark": {
                 "type": "geoshape",
                 "fill": "lightgray",
-                "stroke": "white",
+                "stroke": "black",
                 "strokeWidth": 0.2
             },
             "encoding": {
@@ -74,7 +74,7 @@
             ],
             "mark": {
                 "type": "geoshape",
-                "stroke": "white",
+                "stroke": "black",
                 "strokeWidth": 0.3
             },
             "encoding": {
@@ -84,14 +84,21 @@
                     "scale": {
                         "type": "linear",
                         "range": [
-                            "#ffffcc",
-                            "#c7e9b4",
-                            "#7fcdbb",
-                            "#41b6c4",
-                            "#2c7fb8",
-                            "#253494"
+                            "#fa3d35",
+                            "#fc5334",
+                            "#ff6c33",
+                            "#ff8232",
+                            "#ff9b2f",
+                            "#ffb42b",
+                            "#ffc925",
+                            "#ffdd1e",
+                            "#fff111",
+                            "#FFFF00"
                         ],
-                        "domain": [2, 8]
+                        "domain": [
+                            2,
+                            8
+                        ]
                     },
                     "legend": {
                         "orient": "bottom-left",
@@ -99,7 +106,7 @@
                         "padding": 50,
                         "labelFontSize": 12,
                         "labelOffset": 10,
-                        "titleBaseline":"middle",
+                        "titleBaseline": "middle",
                         "titleFontSize": 16,
                         "title": "Score"
                     }

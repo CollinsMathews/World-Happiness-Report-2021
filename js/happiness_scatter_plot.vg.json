@@ -24,36 +24,28 @@
       }
     },
     {
-      "name": "Region_selection",
+      "name": "Continent_selection",
       "bind": {
         "input": "select",
         "options": [
           null,
-          "Central and Eastern Europe",
-          "Commonwealth of Independent States",
-          "East Asia",
-          "Latin America and Caribbean",
-          "Middle East and North Africa",
-          "North America and ANZ",
-          "South Asia",
-          "Southeast Asia",
-          "Sub-Saharan Africa",
-          "Western Europe"
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
         ],
         "labels": [
           "Show All",
-          "Central and Eastern Europe",
-          "Commonwealth of Independent States",
-          "East Asia",
-          "Latin America and Caribbean",
-          "Middle East and North Africa",
-          "North America and ANZ",
-          "South Asia",
-          "Southeast Asia",
-          "Sub-Saharan Africa",
-          "Western Europe"
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
         ],
-        "name": "Region Selection: "
+        "name": "Continent Selection: "
       }
     }
   ],
@@ -74,7 +66,7 @@
       "filter": "datum['Population 2020'] > Population_Above"
     },
     {
-      "filter": "Region_selection == null || datum['Regional indicator'] == Region_selection"
+      "filter": "Continent_selection == null || datum['Continent'] == Continent_selection"
     }
   ],
   "encoding": {
@@ -112,7 +104,7 @@
         "continent_highlight": {
           "type": "multi",
           "fields": [
-            "Regional indicator"
+            "Continent"
           ],
           "bind": "legend"
         }
@@ -143,21 +135,17 @@
           "legend": null
         },
         "color": {
-          "field": "Regional indicator",
+          "field": "Continent",
           "type": "nominal",
           "title": "Region",
           "scale": {
             "domain": [
-              "Central and Eastern Europe",
-              "Commonwealth of Independent States",
-              "East Asia",
-              "Latin America and Caribbean",
-              "Middle East and North Africa",
-              "North America and ANZ",
-              "South Asia",
-              "Southeast Asia",
-              "Sub-Saharan Africa",
-              "Western Europe"
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
             ]
           },
           "legend": {

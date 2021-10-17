@@ -1,7 +1,21 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Though Vega-Lite supports only one scale per axes, one can create a parallel coordinate plot by folding variables, using `joinaggregate` to normalize their values and using ticks and rules to manually create axes.",
-    "data": {
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "Parallel coordinates plot showing 7 dimensions of automobile statistics.",
+  "background": "#F7EDE2",
+  "width": 1500,
+  "height": 500,
+  "config": {
+    "axisY": {
+      "titleX": -2,
+      "titleY": 410,
+      "titleAngle": 0,
+      "titleAlign": "right",
+      "titleBaseline": "top"
+    }
+  },
+  "data": [
+    {
+      "name": "happiness_report",
       "url": "data/world-happiness-report-2021.csv",
       "format": {
         "type": "csv",
@@ -16,108 +30,206 @@
         }
       }
     },
-    "background": "#F7EDE2",
-    "width": 1500,
-    "height": 500,
-    "transform": [
-      {"filter": "datum['Ladder score']"},
-      {"window": [{"op": "count", "as": "index"}]},
-      {
-        "fold": [
-          "Ladder score",
-          "Logged GDP per capita",
-          "Social support",
-          "Healthy life expectancy",
-          "Freedom to make life choices",
-          "Generosity",
-          "Perceptions of corruption"
-        ]
-      },
-      {
-        "joinaggregate": [
-          {"op": "min", "field": "value", "as": "min"},
-          {"op": "max", "field": "value", "as": "max"}
-        ],
-        "groupby": ["key"]
-      },
-      {
-        "calculate": "(datum.value - datum.min) / (datum.max-datum.min)",
-        "as": "norm_val"
-      },
-      {"calculate": "(datum.min + datum.max) / 2", "as": "mid"}
-    ],
-    "layer": [
-      {
-        "mark": {"type": "rule", "color": "#ccc"},
-        "encoding": {"detail": {"aggregate": "count"}, "x": {"field": "key"}}
-      },
-      {
-        "mark": "line",
-        "encoding": {
-          "color": {"type": "nominal", "field": "Continent"},
-          "detail": {"type": "nominal", "field": "index"},
-          "opacity": {"value": 0.5},
-          "x": {"type": "nominal", "field": "key"},
-          "y": {"type": "quantitative", "field": "norm_val", "axis": null},
-          "tooltip": [
-            {"type": "quantitative", "field": "Ladder score"},
-            {"type": "quantitative", "field": "Logged GDP per capita"},
-            {"type": "quantitative", "field": "Social support"},
-            {"type": "quantitative", "field": "Healthy life expectancy"},
-            {"type": "quantitative", "field": "Freedom to make life choices"},
-            {"type": "quantitative", "field": "Generosity"},
-            {"type": "quantitative", "field": "Perceptions of corruption"}
-          ]
-        }
-      },
-      {
-        "encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 0}},
-        "layer": [
-          {
-            "mark": {"type": "text", "style": "label"},
-            "encoding": {"text": {"aggregate": "max", "field": "max"}}
-          },
-          {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
-        ]
-      },
-      {
-        "encoding": {
-          "x": {"type": "nominal", "field": "key"},
-          "y": {"value": 150}
-        },
-        "layer": [
-          {
-            "mark": {"type": "text", "style": "label"},
-            "encoding": {"text": {"aggregate": "min", "field": "mid"}}
-          },
-          {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
-        ]
-      },
-      {
-        "encoding": {
-          "x": {"type": "nominal", "field": "key"},
-          "y": {"value": 300}
-        },
-        "layer": [
-          {
-            "mark": {"type": "text", "style": "label"},
-            "encoding": {"text": {"aggregate": "min", "field": "min"}}
-          },
-          {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
-        ]
+    {
+      "name": "fields",
+      "values": [
+        "Ladder score",
+        "Logged GDP per capita",
+        "Social support",
+        "Healthy life expectancy",
+        "Freedom to make life choices",
+        "Generosity",
+        "Perceptions of corruption"
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "Happines Score",
+      "type": "point",
+      "range": "width",
+      "round": true,
+      "domain": {
+        "data": "fields",
+        "field": "Ladder score"
       }
-    ],
-    "config": {
-      "axisX": {
-        "domain": false,
-        "labelAngle": 0,
-        "tickColor": "#ccc",
-        "title": null
-      },
-      "view": {"stroke": null},
-      "style": {
-        "label": {"baseline": "middle", "align": "right", "dx": -5},
-        "tick": {"orient": "horizontal"}
+    },
+    {
+      "name": "Logged GDP per capita",
+      "type": "linear",
+      "range": "height",
+      "zero": false,
+      "nice": true,
+      "domain": {
+        "data": "happiness_report",
+        "field": "Logged GDP per capita"
+      }
+    },
+    {
+      "name": "Social support",
+      "type": "linear",
+      "range": "height",
+      "zero": false,
+      "nice": true,
+      "domain": {
+        "data": "happiness_report",
+        "field": "Social support"
+      }
+    },
+    {
+      "name": "Healthy life expectancy",
+      "type": "linear",
+      "range": "height",
+      "zero": false,
+      "nice": true,
+      "domain": {
+        "data": "happiness_report",
+        "field": "Healthy life expectancy"
+      }
+    },
+    {
+      "name": "Freedom to make life choices",
+      "type": "linear",
+      "range": "height",
+      "zero": false,
+      "nice": true,
+      "domain": {
+        "data": "happiness_report",
+        "field": "Freedom to make life choices"
+      }
+    },
+    {
+      "name": "Generosity",
+      "type": "linear",
+      "range": "height",
+      "zero": false,
+      "nice": true,
+      "domain": {
+        "data": "happiness_report",
+        "field": "Generosity"
+      }
+    },
+    {
+      "name": "Perceptions of corruption",
+      "type": "linear",
+      "range": "height",
+      "zero": false,
+      "nice": true,
+      "domain": {
+        "data": "happiness_report",
+        "field": "Perceptions of corruption"
       }
     }
-  }
+  ],
+  "axes": [
+    {
+      "orient": "left",
+      "zindex": 1,
+      "scale": "Logged GDP per capita",
+      "title": "Logged GDP per capita",
+      "offset": {
+        "scale": "ord",
+        "value": "Logged GDP per capita",
+        "mult": -1
+      }
+    },
+    {
+      "orient": "left",
+      "zindex": 1,
+      "scale": "Social support",
+      "title": "Social support",
+      "offset": {
+        "scale": "ord",
+        "value": "Social support",
+        "mult": -1
+      }
+    },
+    {
+      "orient": "left",
+      "zindex": 1,
+      "scale": "Healthy life expectancy",
+      "title": "Healthy life expectancy",
+      "offset": {
+        "scale": "ord",
+        "value": "Healthy life expectancy",
+        "mult": -1
+      }
+    },
+    {
+      "orient": "left",
+      "zindex": 1,
+      "scale": "Freedom to make life choices",
+      "title": "Freedom to make life choices",
+      "offset": {
+        "scale": "ord",
+        "value": "Freedom to make life choices",
+        "mult": -1
+      }
+    },
+    {
+      "orient": "left",
+      "zindex": 1,
+      "scale": "Generosity",
+      "title": "Generosity",
+      "offset": {
+        "scale": "ord",
+        "value": "Generosity",
+        "mult": -1
+      }
+    },
+    {
+      "orient": "left",
+      "zindex": 1,
+      "scale": "Perceptions of corruption",
+      "title": "Perceptions of corruption",
+      "offset": {
+        "scale": "ord",
+        "value": "Perceptions of corruption",
+        "mult": -1
+      }
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "from": {
+        "data": "happiness_report"
+      },
+      "marks": [
+        {
+          "type": "line",
+          "from": {
+            "data": "fields"
+          },
+          "encode": {
+            "enter": {
+              "x": {
+                "scale": "ord",
+                "field": "data"
+              },
+              "y": {
+                "scale": {
+                  "datum": "data"
+                },
+                "field": {
+                  "parent": {
+                    "datum": "data"
+                  }
+                }
+              },
+              "stroke": {
+                "value": "steelblue"
+              },
+              "strokeWidth": {
+                "value": 1.01
+              },
+              "strokeOpacity": {
+                "value": 0.3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
