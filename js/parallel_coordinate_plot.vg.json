@@ -1,235 +1,438 @@
 {
-  "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "description": "Parallel coordinates plot showing 7 dimensions of automobile statistics.",
-  "background": "#F7EDE2",
-  "width": 1500,
-  "height": 500,
-  "config": {
-    "axisY": {
-      "titleX": -2,
-      "titleY": 410,
-      "titleAngle": 0,
-      "titleAlign": "right",
-      "titleBaseline": "top"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Though Vega-Lite supports only one scale per axes, one can create a parallel coordinate plot by folding variables, using `joinaggregate` to normalize their values and using ticks and rules to manually create axes.",
+  "data": {
+    "url": "data/world-happiness-report-2021.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "Ladder score": "number",
+        "Logged GDP per capita": "number",
+        "Social support": "number",
+        "Healthy life expectancy": "number",
+        "Freedom to make life choices": "number",
+        "Generosity": "number",
+        "Perceptions of corruption": "number"
+      }
     }
   },
-  "data": [
+  "background": "#F7EDE2",
+  "width": 1200,
+  "height": 500,
+  "title": {
+    "text": "Normalised Factor Scores of Countries",
+    "fontSize": 22,
+    "dy": -30,
+    "anchor": "middle"
+  },
+  "params": [
     {
-      "name": "happiness_report",
-      "url": "data/world-happiness-report-2021.csv",
-      "format": {
-        "type": "csv",
-        "parse": {
-          "Ladder score": "number",
-          "Logged GDP per capita": "number",
-          "Social support": "number",
-          "Healthy life expectancy": "number",
-          "Freedom to make life choices": "number",
-          "Generosity": "number",
-          "Perceptions of corruption": "number"
-        }
+      "name": "Ladder_filter",
+      "value": 5,
+      "bind": {
+        "element": "#min_pop_filter_2",
+        "input": "range",
+        "min": 2.5,
+        "max": 7.5,
+        "step": 0.1,
+        "name": "Happiness Score (+/- 0.5): "
       }
     },
     {
-      "name": "fields",
-      "values": [
-        "Ladder score",
-        "Logged GDP per capita",
-        "Social support",
-        "Healthy life expectancy",
-        "Freedom to make life choices",
-        "Generosity",
-        "Perceptions of corruption"
-      ]
-    }
-  ],
-  "scales": [
-    {
-      "name": "Happines Score",
-      "type": "point",
-      "range": "width",
-      "round": true,
-      "domain": {
-        "data": "fields",
-        "field": "Ladder score"
-      }
-    },
-    {
-      "name": "Logged GDP per capita",
-      "type": "linear",
-      "range": "height",
-      "zero": false,
-      "nice": true,
-      "domain": {
-        "data": "happiness_report",
-        "field": "Logged GDP per capita"
-      }
-    },
-    {
-      "name": "Social support",
-      "type": "linear",
-      "range": "height",
-      "zero": false,
-      "nice": true,
-      "domain": {
-        "data": "happiness_report",
-        "field": "Social support"
-      }
-    },
-    {
-      "name": "Healthy life expectancy",
-      "type": "linear",
-      "range": "height",
-      "zero": false,
-      "nice": true,
-      "domain": {
-        "data": "happiness_report",
-        "field": "Healthy life expectancy"
-      }
-    },
-    {
-      "name": "Freedom to make life choices",
-      "type": "linear",
-      "range": "height",
-      "zero": false,
-      "nice": true,
-      "domain": {
-        "data": "happiness_report",
-        "field": "Freedom to make life choices"
-      }
-    },
-    {
-      "name": "Generosity",
-      "type": "linear",
-      "range": "height",
-      "zero": false,
-      "nice": true,
-      "domain": {
-        "data": "happiness_report",
-        "field": "Generosity"
-      }
-    },
-    {
-      "name": "Perceptions of corruption",
-      "type": "linear",
-      "range": "height",
-      "zero": false,
-      "nice": true,
-      "domain": {
-        "data": "happiness_report",
-        "field": "Perceptions of corruption"
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "element": "#continent_select_filter_2",
+        "options": [
+          null,
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "labels": [
+          "Show All",
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "name": "Continent Selection: "
       }
     }
   ],
-  "axes": [
+  "transform": [
     {
-      "orient": "left",
-      "zindex": 1,
-      "scale": "Logged GDP per capita",
-      "title": "Logged GDP per capita",
-      "offset": {
-        "scale": "ord",
-        "value": "Logged GDP per capita",
-        "mult": -1
-      }
+      "filter": "datum['Ladder score']"
     },
     {
-      "orient": "left",
-      "zindex": 1,
-      "scale": "Social support",
-      "title": "Social support",
-      "offset": {
-        "scale": "ord",
-        "value": "Social support",
-        "mult": -1
-      }
-    },
-    {
-      "orient": "left",
-      "zindex": 1,
-      "scale": "Healthy life expectancy",
-      "title": "Healthy life expectancy",
-      "offset": {
-        "scale": "ord",
-        "value": "Healthy life expectancy",
-        "mult": -1
-      }
-    },
-    {
-      "orient": "left",
-      "zindex": 1,
-      "scale": "Freedom to make life choices",
-      "title": "Freedom to make life choices",
-      "offset": {
-        "scale": "ord",
-        "value": "Freedom to make life choices",
-        "mult": -1
-      }
-    },
-    {
-      "orient": "left",
-      "zindex": 1,
-      "scale": "Generosity",
-      "title": "Generosity",
-      "offset": {
-        "scale": "ord",
-        "value": "Generosity",
-        "mult": -1
-      }
-    },
-    {
-      "orient": "left",
-      "zindex": 1,
-      "scale": "Perceptions of corruption",
-      "title": "Perceptions of corruption",
-      "offset": {
-        "scale": "ord",
-        "value": "Perceptions of corruption",
-        "mult": -1
-      }
-    }
-  ],
-  "marks": [
-    {
-      "type": "group",
-      "from": {
-        "data": "happiness_report"
-      },
-      "marks": [
+      "window": [
         {
-          "type": "line",
-          "from": {
-            "data": "fields"
-          },
-          "encode": {
-            "enter": {
-              "x": {
-                "scale": "ord",
-                "field": "data"
-              },
-              "y": {
-                "scale": {
-                  "datum": "data"
-                },
-                "field": {
-                  "parent": {
-                    "datum": "data"
-                  }
-                }
-              },
-              "stroke": {
-                "value": "steelblue"
-              },
-              "strokeWidth": {
-                "value": 1.01
-              },
-              "strokeOpacity": {
-                "value": 0.3
-              }
-            }
+          "op": "count",
+          "as": "index"
+        }
+      ]
+    },
+    {
+      "calculate": "datum['Ladder score normalised']",
+      "as": "A: Happiness Score"
+    },
+    {
+      "calculate": "datum['Logged GDP per capita normalised']",
+      "as": "B: GDP per capita"
+    },
+    {
+      "calculate": "datum['Social support normalised']",
+      "as": "C: Social support"
+    },
+    {
+      "calculate": "datum['Healthy life expectancy normalised']",
+      "as": "D: Life Expectancy"
+    },
+    {
+      "calculate": "datum['Freedom to make life choices normalised']",
+      "as": "E: Freedom"
+    },
+    {
+      "calculate": "datum['Generosity normalised']",
+      "as": "F: Generosity"
+    },
+    {
+      "calculate": "datum['Perceptions of corruption normalised']",
+      "as": "G: Corruption"
+    },
+    {
+      "fold": [
+        "A: Happiness Score",
+        "B: GDP per capita",
+        "C: Social support",
+        "D: Life Expectancy",
+        "E: Freedom",
+        "F: Generosity",
+        "G: Corruption"
+      ]
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "min",
+          "field": "value",
+          "as": "min_field"
+        },
+        {
+          "op": "max",
+          "field": "value",
+          "as": "max_field"
+        }
+      ],
+      "groupby": [
+        "key"
+      ]
+    },
+    {
+      "calculate": "floor(datum['min_field'])",
+      "as": "min"
+    },
+    {
+      "calculate": "ceil(datum['max_field'])",
+      "as": "max"
+    },
+    {
+      "calculate": "(datum.value - datum.min) / (datum.max-datum.min)",
+      "as": "norm_val"
+    },
+    {
+      "calculate": "(datum.min + datum.max) / 2",
+      "as": "mid"
+    },
+    {
+      "filter": "Continent_selection == null || datum['Continent'] == Continent_selection"
+    },
+    {
+      "filter": {"not": {"or": ["datum['Ladder score'] - 0.5 > Ladder_filter", "datum['Ladder score'] + 0.5 < Ladder_filter"]}} 
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#ccc"
+      },
+      "encoding": {
+        "detail": {
+          "aggregate": "count"
+        },
+        "x": {
+          "field": "key",
+          "axis": {
+            "labelFontSize": 15,
+            "labelPadding": 20
           }
         }
-      ]
+      }
+    },
+    {
+      "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": [
+            "Continent"
+          ],
+          "bind": "legend"
+        }
+      },
+      "mark": "line",
+      "encoding": {
+        "detail": {
+          "type": "nominal",
+          "field": "index"
+        },
+        "strokeWidth": {
+          "value": 1
+        },
+        "x": {
+          "type": "nominal",
+          "field": "key",
+          "title": null
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "norm_val",
+          "axis": null
+        },
+        "tooltip": [
+          {
+            "type": "nominal",
+            "field": "Country name",
+            "title": "Country"
+          },
+          {
+            "type": "quantitative",
+            "field": "Ladder score normalised",
+            "title": "Happiness Score",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Logged GDP per capita normalised",
+            "title": "Normalised GDP per Capita",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Social support normalised",
+            "title": "Normalised Social Support",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Healthy life expectancy normalised",
+            "title": "Normalised Life Expectancy",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Freedom to make life choices normalised",
+            "title": "Normalised Freedom",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Generosity normalised",
+            "title": "Normalised Generosity",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Perceptions of corruption normalised",
+            "title": "Normalised Corruption",
+            "format": ".2f"
+          }
+        ],
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "title": "Continent",
+          "scale": {
+            "range": [
+              "#bbcc33",
+              "#77aadd",
+              "#ee8866",
+              "#FF5174",
+              "#7422BD",
+              "#44bb99"
+            ],
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ]
+          },
+          "legend": {
+            "orient": "none",
+            "direction": "horizontal",
+            "legendY": -90,
+            "legendX": 320,
+            "labelFontSize": 16,
+            "labelBaseline": "middle",
+            "titleAlign": "center",
+            "titleFontSize": 18,
+            "titleAnchor": "middle",
+            "titleLimit": 1980
+          }
+        },
+        "opacity": {
+          "condition": {
+            "selection": "continent_highlight",
+            "value": 0.4
+          },
+          "value": 0.1
+        }
+      }
+    },
+    {
+      "mark": "circle",
+      "encoding": {
+        "detail": {
+          "type": "nominal",
+          "field": "index"
+        },
+        "strokeWidth": {
+          "value": 3
+        },
+        "size": {
+          "value": 80
+        },
+        "x": {
+          "type": "nominal",
+          "field": "key",
+          "title": null
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "norm_val",
+          "axis": null
+        },
+        "tooltip": [
+          {
+            "type": "nominal",
+            "field": "Country name",
+            "title": "Country"
+          },
+          {
+            "type": "quantitative",
+            "field": "Ladder score normalised",
+            "title": "Happiness Score",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Logged GDP per capita normalised",
+            "title": "Normalised GDP per Capita",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Social support normalised",
+            "title": "Normalised Social Support",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Healthy life expectancy normalised",
+            "title": "Normalised Life Expectancy",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Freedom to make life choices normalised",
+            "title": "Normalised Freedom",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Generosity normalised",
+            "title": "Normalised Generosity",
+            "format": ".2f"
+          },
+          {
+            "type": "quantitative",
+            "field": "Perceptions of corruption normalised",
+            "title": "Normalised Corruption",
+            "format": ".2f"
+          }
+        ],
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "title": "Continent",
+          "scale": {
+            "range": [
+              "#bbcc33",
+              "#77aadd",
+              "#ee8866",
+              "#FF5174",
+              "#7422BD",
+              "#44bb99"
+            ],
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ]
+          },
+          "legend": {
+            "orient": "none",
+            "direction": "horizontal",
+            "legendY": -90,
+            "legendX": 350,
+            "labelFontSize": 16,
+            "labelBaseline": "middle",
+            "titleAlign": "center",
+            "titleFontSize": 18,
+            "titleAnchor": "middle",
+            "titleLimit": 1980
+          }
+        },
+        "opacity": {
+          "condition": {
+            "selection": "continent_highlight",
+            "value": 0.4
+          },
+          "value": 0.1
+        }
+      }
     }
-  ]
+  ],
+  "config": {
+    "axisX": {
+      "domain": false,
+      "labelAngle": 0,
+      "tickColor": "#ccc",
+      "title": null
+    },
+    "view": {
+      "stroke": null
+    },
+    "style": {
+      "label": {
+        "baseline": "middle",
+        "align": "right",
+        "dx": -5
+      },
+      "tick": {
+        "orient": "horizontal"
+      }
+    }
+  }
 }

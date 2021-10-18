@@ -1,21 +1,33 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": "container",
-  "height": 600,
-  "title": {
-    "text": "Countries' Happiness per Factor",
-    "fontSize": 22,
-    "dy": -30
-},
-  "background": "#F7EDE2",
+  "background": null,
   "data": {
     "url": "data/world-happiness-report-2021.csv"
   },
+  "align": "each",
+  "center": true,
+  "height": 900,
+  "title": {
+    "text": "Happiness Scores of Countries per Factor",
+    "fontSize": 22,
+    "dy": -30,
+    "anchor": "middle"
+  },
+  "config": {
+    "axisX": {
+      "domain": false
+    },
+    "view": {
+      "stroke": null
+    }
+  },
+  "width": 993,
   "params": [
     {
       "name": "Population_Above",
       "value": 0,
       "bind": {
+        "element": "#min_pop_filter",
         "input": "range",
         "min": 0,
         "max": 100000000,
@@ -26,6 +38,7 @@
     {
       "name": "Continent_selection",
       "bind": {
+        "element": "#continent_select_filter",
         "input": "select",
         "options": [
           null,
@@ -45,7 +58,7 @@
           "Oceania",
           "South America"
         ],
-        "name": "Continent Selection: "
+        "name": "Continent Select: "
       }
     }
   ],
@@ -69,158 +82,1113 @@
       "filter": "Continent_selection == null || datum['Continent'] == Continent_selection"
     }
   ],
-  "encoding": {
-    "x": {
-      "field": "Logged GDP per capita",
-      "type": "quantitative",
-      "title": "GDP per Capita",
-      "axis": {
-        "tickCount": 7
-      },
-      "scale": {
-        "type": "linear",
-        "domain": [
-          6,
-          12
-        ]
-      }
-    },
-    "y": {
-      "field": "Ladder score",
-      "type": "quantitative",
-      "title": "Happiness Score",
-      "axis": {
-        "tickCount": 6
-      },
-      "scale": {
-        "type": "linear",
-        "domain": [0, 10]
-      }
-    }
-  },
-  "layer": [
+  "concat": [
     {
-      "selection": {
-        "continent_highlight": {
-          "type": "multi",
-          "fields": [
-            "Continent"
-          ],
-          "bind": "legend"
+      "width": 331,
+      "height": 450,
+      "encoding": {
+        "x": {
+          "field": "Logged GDP per capita",
+          "type": "quantitative",
+          "title": "GDP per Capita",
+          "axis": {
+            "values": [
+              6,
+              9,
+              12
+            ]
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              6,
+              12
+            ]
+          }
+        },
+        "y": {
+          "field": "Ladder score",
+          "type": "quantitative",
+          "title": "Happiness Score",
+          "axis": {
+            "tickCount": 2
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              10
+            ]
+          }
         }
       },
-      "mark": "circle",
-      "encoding": {
-        "size": {
-          "field": "Population 2020",
-          "type": "quantitative",
-          "scale": {
-            "type": "threshold",
-            "domain": [
-              1000000,
-              10000000,
-              50000000,
-              100000000,
-              500000000
-            ],
-            "range": [
-              10,
-              50,
-              150,
-              200,
-              300,
-              400
-            ]
+      "layer": [
+        {
+          "selection": {
+            "continent_highlight": {
+              "type": "multi",
+              "fields": [
+                "Continent"
+              ],
+              "bind": "legend"
+            }
           },
-          "legend": null
-        },
-        "color": {
-          "field": "Continent",
-          "type": "nominal",
-          "title": "Region",
-          "scale": {
-            "domain": [
-              "Africa",
-              "Asia",
-              "Europe",
-              "North America",
-              "Oceania",
-              "South America"
+          "mark": "circle",
+          "encoding": {
+            "size": {
+              "field": "Population 2020",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [
+                  1000000,
+                  10000000,
+                  45000000,
+                  100000000,
+                  450000000
+                ],
+                "range": [
+                  10,
+                  50,
+                  150,
+                  200,
+                  300,
+                  400
+                ]
+              },
+              "legend": null
+            },
+            "color": {
+              "field": "Continent",
+              "type": "nominal",
+              "title": "Continent",
+              "scale": {
+                "domain": [
+                  "Africa",
+                  "Asia",
+                  "Europe",
+                  "North America",
+                  "Oceania",
+                  "South America"
+                ],
+                "range": [
+                  "#bbcc33",
+                  "#77aadd",
+                  "#ee8866",
+                  "#FF5174",
+                  "#7422BD",
+                  "#44bb99"
+                ]
+              }
+            },
+            "opacity": {
+              "condition": {
+                "selection": "continent_highlight",
+                "value": 0.7
+              },
+              "value": 0.2
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Logged GDP per capita",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Logged GDP per Capita"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
             ]
-          },
-          "legend": {
-            "orient": "bottom-right"
           }
         },
-        "opacity": {
-          "condition": {
-            "selection": "continent_highlight",
-            "value": 0.6
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 11.5,
+            "fontStyle": "italic",
+            "dy": -15
           },
-          "value": 0.2
-        },
-        "tooltip": [
-          {
-            "field": "Country name",
-            "type": "nominal"
-          },
-          {
-            "field": "Ladder score",
-            "type": "quantitative",
-            "format": ","
-          },
-          {
-            "field": "Logged GDP per capita",
-            "type": "quantitative",
-            "format": ","
-          },
-          {
-            "field": "Population 2020",
-            "type": "quantitative",
-            "format": ","
+          "encoding": {
+            "text": {
+              "field": "Country name",
+              "type": "nominal"
+            },
+            "color": {
+              "value": "black"
+            },
+            "opacity": {
+              "condition": {
+                "test": "datum['Country name'] == 'Finland' || datum['Country name'] == 'Afghanistan'",
+                "value": 1
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Logged GDP per capita",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Logged GDP per Capita"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
           }
-        ]
-      }
+        }
+      ]
     },
     {
-      "mark": {
-        "type": "text",
-        "fontSize": 11.5,
-        "fontStyle": "italic",
-        "dy": -15
-      },
+      "width": 331,
+      "height": 450,
       "encoding": {
-        "text": {"field": "Country name", "type": "nominal"},
-        "color": {"value": "black"},
-        "opacity": {
-          "condition": {
-            "test": "datum['Country name'] == 'Finland' || datum['Country name'] == 'Luxembourg'",
-            "value": 1
+        "x": {
+          "field": "Social support",
+          "type": "quantitative",
+          "title": "Social Support",
+          "axis": {
+            "values": [
+              0.4,
+              0.7,
+              1
+            ]
           },
-          "value": 0
-        },
-        "tooltip": [
-          {
-            "field": "Country name",
-            "type": "nominal"
-          },
-          {
-            "field": "Ladder score",
-            "type": "quantitative",
-            "format": ","
-          },
-          {
-            "field": "Logged GDP per capita",
-            "type": "quantitative",
-            "format": ","
-          },
-          {
-            "field": "Population 2020",
-            "type": "quantitative",
-            "format": ","
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0.4,
+              1
+            ]
           }
-        ]
-      }
+        },
+        "y": {
+          "field": "Ladder score",
+          "type": "quantitative",
+          "title": null,
+          "axis": {
+            "tickCount": 2
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              10
+            ]
+          }
+        }
+      },
+      "layer": [
+        {
+          "selection": {
+            "continent_highlight": {
+              "type": "multi",
+              "fields": [
+                "Continent"
+              ],
+              "bind": "legend"
+            }
+          },
+          "mark": "circle",
+          "encoding": {
+            "size": {
+              "field": "Population 2020",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [
+                  1000000,
+                  10000000,
+                  45000000,
+                  100000000,
+                  450000000
+                ],
+                "range": [
+                  10,
+                  50,
+                  150,
+                  200,
+                  300,
+                  400
+                ]
+              },
+              "legend": null
+            },
+            "color": {
+              "field": "Continent",
+              "type": "nominal",
+              "title": "Continent",
+              "scale": {
+                "domain": [
+                  "Africa",
+                  "Asia",
+                  "Europe",
+                  "North America",
+                  "Oceania",
+                  "South America"
+                ],
+                "range": [
+                  "#bbcc33",
+                  "#77aadd",
+                  "#ee8866",
+                  "#FF5174",
+                  "#7422BD",
+                  "#44bb99"
+                ]
+              }
+            },
+            "opacity": {
+              "condition": {
+                "selection": "continent_highlight",
+                "value": 0.7
+              },
+              "value": 0.2
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Social support",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Social Support"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 11.5,
+            "fontStyle": "italic",
+            "dy": -15
+          },
+          "encoding": {
+            "text": {
+              "field": "Country name",
+              "type": "nominal"
+            },
+            "color": {
+              "value": "black"
+            },
+            "opacity": {
+              "condition": {
+                "test": "datum['Country name'] == 'Finland' || datum['Country name'] == 'Afghanistan'",
+                "value": 1
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Social support",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Social Support"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "width": 331,
+      "height": 450,
+      "encoding": {
+        "x": {
+          "field": "Healthy life expectancy",
+          "type": "quantitative",
+          "title": "Life Expectancy",
+          "axis": {
+            "values": [
+              40,
+              60,
+              80
+            ]
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              40,
+              80
+            ]
+          }
+        },
+        "y": {
+          "field": "Ladder score",
+          "type": "quantitative",
+          "title": null,
+          "axis": {
+            "tickCount": 2
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              10
+            ]
+          }
+        }
+      },
+      "layer": [
+        {
+          "selection": {
+            "continent_highlight": {
+              "type": "multi",
+              "fields": [
+                "Continent"
+              ],
+              "bind": "legend"
+            }
+          },
+          "mark": "circle",
+          "encoding": {
+            "size": {
+              "field": "Population 2020",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [
+                  1000000,
+                  10000000,
+                  45000000,
+                  100000000,
+                  450000000
+                ],
+                "range": [
+                  10,
+                  50,
+                  150,
+                  200,
+                  300,
+                  400
+                ]
+              },
+              "legend": null
+            },
+            "color": {
+              "field": "Continent",
+              "type": "nominal",
+              "title": "Continent",
+              "scale": {
+                "domain": [
+                  "Africa",
+                  "Asia",
+                  "Europe",
+                  "North America",
+                  "Oceania",
+                  "South America"
+                ],
+                "range": [
+                  "#bbcc33",
+                  "#77aadd",
+                  "#ee8866",
+                  "#FF5174",
+                  "#7422BD",
+                  "#44bb99"
+                ]
+              }
+            },
+            "opacity": {
+              "condition": {
+                "selection": "continent_highlight",
+                "value": 0.7
+              },
+              "value": 0.2
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Healthy life expectancy",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Life Expectancy"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 11.5,
+            "fontStyle": "italic",
+            "dy": -15
+          },
+          "encoding": {
+            "text": {
+              "field": "Country name",
+              "type": "nominal"
+            },
+            "color": {
+              "value": "black"
+            },
+            "opacity": {
+              "condition": {
+                "test": "datum['Country name'] == 'Finland' || datum['Country name'] == 'Afghanistan'",
+                "value": 1
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Healthy life expectancy",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Life Expectancy"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "width": 331,
+      "height": 450,
+      "encoding": {
+        "x": {
+          "field": "Freedom to make life choices",
+          "type": "quantitative",
+          "title": "Perception of Freedom",
+          "axis": {
+            "values": [
+              0.2,
+              0.6,
+              1
+            ]
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0.2,
+              1
+            ]
+          }
+        },
+        "y": {
+          "field": "Ladder score",
+          "type": "quantitative",
+          "title": "Happiness Score",
+          "axis": {
+            "tickCount": 2
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              10
+            ]
+          }
+        }
+      },
+      "layer": [
+        {
+          "selection": {
+            "continent_highlight": {
+              "type": "multi",
+              "fields": [
+                "Continent"
+              ],
+              "bind": "legend"
+            }
+          },
+          "mark": "circle",
+          "encoding": {
+            "size": {
+              "field": "Population 2020",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [
+                  1000000,
+                  10000000,
+                  45000000,
+                  100000000,
+                  450000000
+                ],
+                "range": [
+                  10,
+                  50,
+                  150,
+                  200,
+                  300,
+                  400
+                ]
+              },
+              "legend": null
+            },
+            "color": {
+              "field": "Continent",
+              "type": "nominal",
+              "title": "Continent",
+              "scale": {
+                "domain": [
+                  "Africa",
+                  "Asia",
+                  "Europe",
+                  "North America",
+                  "Oceania",
+                  "South America"
+                ],
+                "range": [
+                  "#bbcc33",
+                  "#77aadd",
+                  "#ee8866",
+                  "#FF5174",
+                  "#7422BD",
+                  "#44bb99"
+                ]
+              }
+            },
+            "opacity": {
+              "condition": {
+                "selection": "continent_highlight",
+                "value": 0.7
+              },
+              "value": 0.2
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Freedom to make life choices",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Perception of Freedom"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 11.5,
+            "fontStyle": "italic",
+            "dy": -15
+          },
+          "encoding": {
+            "text": {
+              "field": "Country name",
+              "type": "nominal"
+            },
+            "color": {
+              "value": "black"
+            },
+            "opacity": {
+              "condition": {
+                "test": "datum['Country name'] == 'Finland' || datum['Country name'] == 'Afghanistan'",
+                "value": 1
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Freedom to make life choices",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Perception of Freedom"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "width": 331,
+      "height": 450,
+      "encoding": {
+        "x": {
+          "field": "Generosity",
+          "type": "quantitative",
+          "title": "Generosity",
+          "axis": {
+            "values": [
+              -0.5,
+              0.1,
+              0.7
+            ]
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              -0.5,
+              0.7
+            ]
+          }
+        },
+        "y": {
+          "field": "Ladder score",
+          "type": "quantitative",
+          "title": null,
+          "axis": {
+            "tickCount": 2
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              10
+            ]
+          }
+        }
+      },
+      "layer": [
+        {
+          "selection": {
+            "continent_highlight": {
+              "type": "multi",
+              "fields": [
+                "Continent"
+              ],
+              "bind": "legend"
+            }
+          },
+          "mark": "circle",
+          "encoding": {
+            "size": {
+              "field": "Population 2020",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [
+                  1000000,
+                  10000000,
+                  45000000,
+                  100000000,
+                  450000000
+                ],
+                "range": [
+                  10,
+                  50,
+                  150,
+                  200,
+                  300,
+                  400
+                ]
+              },
+              "legend": null
+            },
+            "color": {
+              "field": "Continent",
+              "type": "nominal",
+              "title": "Continent",
+              "scale": {
+                "domain": [
+                  "Africa",
+                  "Asia",
+                  "Europe",
+                  "North America",
+                  "Oceania",
+                  "South America"
+                ],
+                "range": [
+                  "#bbcc33",
+                  "#77aadd",
+                  "#ee8866",
+                  "#FF5174",
+                  "#7422BD",
+                  "#44bb99"
+                ]
+              }
+            },
+            "opacity": {
+              "condition": {
+                "selection": "continent_highlight",
+                "value": 0.7
+              },
+              "value": 0.2
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Generosity",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Generosity"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 11.5,
+            "fontStyle": "italic",
+            "dy": -15
+          },
+          "encoding": {
+            "text": {
+              "field": "Country name",
+              "type": "nominal"
+            },
+            "color": {
+              "value": "black"
+            },
+            "opacity": {
+              "condition": {
+                "test": "datum['Country name'] == 'Finland' || datum['Country name'] == 'Afghanistan'",
+                "value": 1
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Generosity",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Generosity"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "width": 331,
+      "height": 450,
+      "encoding": {
+        "x": {
+          "field": "Perceptions of corruption",
+          "type": "quantitative",
+          "title": "Perception of Corruption",
+          "axis": {
+            "values": [
+              0,
+              0.5,
+              1
+            ]
+          },
+          "scale": {
+            "type": "linear"
+          }
+        },
+        "y": {
+          "field": "Ladder score",
+          "type": "quantitative",
+          "title": null,
+          "axis": {
+            "tickCount": 2
+          },
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              10
+            ]
+          }
+        }
+      },
+      "layer": [
+        {
+          "selection": {
+            "continent_highlight": {
+              "type": "multi",
+              "fields": [
+                "Continent"
+              ],
+              "bind": "legend"
+            }
+          },
+          "mark": "circle",
+          "encoding": {
+            "size": {
+              "field": "Population 2020",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [
+                  1000000,
+                  10000000,
+                  45000000,
+                  100000000,
+                  450000000
+                ],
+                "range": [
+                  10,
+                  50,
+                  150,
+                  200,
+                  300,
+                  400
+                ]
+              },
+              "legend": null
+            },
+            "color": {
+              "field": "Continent",
+              "type": "nominal",
+              "title": "Continent",
+              "scale": {
+                "domain": [
+                  "Africa",
+                  "Asia",
+                  "Europe",
+                  "North America",
+                  "Oceania",
+                  "South America"
+                ],
+                "range": [
+                  "#bbcc33",
+                  "#77aadd",
+                  "#ee8866",
+                  "#FF5174",
+                  "#7422BD",
+                  "#44bb99"
+                ]
+              },
+              "legend": {
+                "orient": "none",
+                "direction": "horizontal",
+                "legendY": -80,
+                "legendX": 280,
+                "labelFontSize": 16,
+                "labelBaseline": "middle",
+                "titleAlign": "center",
+                "titleFontSize": 18,
+                "titleAnchor": "middle",
+                "titleLimit": 1980
+              }
+            },
+            "opacity": {
+              "condition": {
+                "selection": "continent_highlight",
+                "value": 0.7
+              },
+              "value": 0.2
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Perceptions of corruption",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Perceptions of Corruption"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 11.5,
+            "fontStyle": "italic",
+            "dy": -15
+          },
+          "encoding": {
+            "text": {
+              "field": "Country name",
+              "type": "nominal"
+            },
+            "color": {
+              "value": "black"
+            },
+            "opacity": {
+              "condition": {
+                "test": "datum['Country name'] == 'Finland' || datum['Country name'] == 'Afghanistan'",
+                "value": 1
+              },
+              "value": 0
+            },
+            "tooltip": [
+              {
+                "field": "Country name",
+                "type": "nominal",
+                "title": "Country"
+              },
+              {
+                "field": "Ladder score",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Happiness Score"
+              },
+              {
+                "field": "Perceptions of corruption",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Perceptions of Corruption"
+              },
+              {
+                "field": "Population 2020",
+                "type": "quantitative",
+                "format": ",",
+                "title": "Population"
+              }
+            ]
+          }
+        }
+      ]
     }
-  ]
+  ],
+  "columns": 3
 }

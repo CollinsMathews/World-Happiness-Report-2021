@@ -24,23 +24,19 @@
                     <div id="author_text">Visualisation by:<br><br><b>Collins Mathews</b><br>Monash
                         University<br><br>FIT3173 - Data Visualisation</div>
                 </div>
-                <div id="subtext" class="subtitle_div">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor
-                    incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                    nisi
-                    ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                    cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt
-                    mollit
-                    anim id est laborum.
+                <div id="subtext" class="subtitle_div"><span>Ever been asked how you feel from a scale from 1 to 10? The
+                        <b>World
+                            Happiness Report</b> is a publication that is published each year that asks almost everyone
+                        in the world
+                        just that! This page will <b>focus</b> on the latest report in <b>2021</b> including the factors
+                        that may affect
+                        how <b>happy</b> a country is. These include <I>GDP per capita, social support, life expectancy,
+                            perception of
+                            freedom, generosity</I> and <i>perception of corruption.</i></span>
                 </div>
                 <div id="data_text_container" class="subtitle_div">
                     <div id="data_text">Data from:<br><br><b>World Happiness Report</b><br>Sustainable
-                        Development Solutions
+                        Development<br>Solutions
                         Network<br><br><a
                             href="https://worldhappiness.report/"><i>https://worldhappiness.report/</i></a>
                     </div>
@@ -49,13 +45,49 @@
         </div>
         <div id="second_row_container" class="row_container">
             <div id="vega_map"></div>
+            <div id="max_min_div_container">
+                <div id="happiest_country_div" class="max_min_div"><span style="font-size: 1.5rem;"><b>Happiest
+                            Country - Finland</b></span><br><br><span><b>Finland</b> was the <b>happiest country</b> in
+                        the World
+                        Happiness Report 2021.
+                        <b>Scandinavian countries</b> have always been among <b>the highest</b>, and experts have
+                        determined that this is due to <b>many factors</b>. Apart from the factors listed in this
+                        report, Scandinavian countries also have <b>free education, healthcare, a well-functioning
+                            democracy</b> and a high priority on <b>life balance.</b></span></div>
+                <div id="unhappiest_country_div" class="max_min_div"><span style="font-size: 1.5rem;"><b>Unhappiest
+                            Country - Afghanistan</b></span><br><br><span><b>Afghanistan</b> was unfortunately found to
+                        be the
+                        <b>unhappiest country</b> in the World Happiness Report 2021. This is very largely due to the
+                        <b>political turmoil</b> that <b>Afghanistan</b> has been going through in the past couple of
+                        decades. This was particulary augmented by the <b>withdrawal of US troops</b>, leaving
+                        Afghanistan to change in leadership, much to some people's <b>dismay.</b></span></div>
+            </div>
+            <div id="bridging_div"><br><b style="color: black;">We'll now look at the correlation between all the
+                    factors in the World Happiness Report 2021 and the happiness score</b></div>
         </div>
         <div id="third_row_container" class="row_container">
+            <div id="continent_select_filter" class="filter_element continent_select_filter"></div>
+            <div id="min_pop_filter" class="filter_element min_pop_filter"></div>
             <div id="vega_scatter_plot" class="second_row_div"></div>
-            <div id="vega_bar_chart" class="second_row_div"></div>
+
         </div>
         <div id="fourth_row_container" class="row_container">
+            <div id="bridging_div_2">
+                <img src="images/happy_face.png">
+                <div class="bridging_div_2_text"><br>From these scatter plots, we can see a <b>rough correlation</b> for
+                    each
+                    factor with
+                    the <b>happiness score.</b> However, it is hard to see <b>how much more</b> influence one factor can
+                    have on
+                    the happiness <b>compared</b> to another factor.
+                    Therefore, we'll look at how they look in <b>parallel</b> with each other. We can also see how the
+                    <b>trend</b> for each factor changes based on how the <b>happiness score changes</b>
+                </div>
+            </div>
+            <div id="continent_select_filter_2" class="filter_element continent_select_filter"></div>
+            <div id="min_pop_filter_2" class="filter_element min_pop_filter"></div>
             <div id="parallel_coordinate_plot"></div>
+            <div id="thanks"><b>Thank you for viewing!</b></div>
         </div>
     </div>
 

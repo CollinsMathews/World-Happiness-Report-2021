@@ -1,0 +1,37 @@
+﻿Factor,Continent,Percentile
+GDP per Capita,Africa,0.441199657
+Social Support,Africa,0.585225141
+Healthy Life Expectancy,Africa,0.420530632
+Freedom,Africa,0.618757259
+Generosity,Africa,0.30896268
+Corruption,Africa,0.802601247
+GDP per Capita,Asia,0.556905532
+Social Support,Asia,0.68208502
+Healthy Life Expectancy,Asia,0.615907768
+Freedom,Asia,0.731426781
+Generosity,Asia,0.390837032
+Corruption,Asia,0.760087208
+GDP per Capita,Europe,0.649220133
+Social Support,Europe,0.734908027
+Healthy Life Expectancy,Europe,0.670056113
+Freedom,Europe,0.731440402
+Generosity,Europe,0.308067051
+Corruption,Europe,0.718203034
+GDP per Capita,North America,0.527151503
+Social Support,North America,0.60849359
+Healthy Life Expectancy,North America,0.541729587
+Freedom,North America,0.640873016
+Generosity,North America,0.335943775
+Corruption,North America,0.70361727
+GDP per Capita,Oceania,0.814944134
+Social Support,Oceania,0.925
+Healthy Life Expectancy,Oceania,0.884003512
+Freedom,Oceania,0.917517007
+Generosity,Oceania,0.523493976
+Corruption,Oceania,0.303383898
+GDP per Capita,South America,0.60857941
+Social Support,South America,0.791730769
+Healthy Life Expectancy,South America,0.667873573
+Freedom,South America,0.745748299
+Generosity,South America,0.221566265
+Corruption,South America,0.834189032
